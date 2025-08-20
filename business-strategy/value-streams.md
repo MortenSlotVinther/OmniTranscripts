@@ -90,9 +90,12 @@ Lead Generation → Qualification → Discovery → Proposal → POC → Negotia
 - POC Report/Deliverable preparation
 
 **Output**: POC Report with findings and recommendations
-**Templates**: POC SOW, POC Report/Deliverable
+**Templates**: 
+  - [POC SOW Template](../deliverables/poc-sow.md)
+  - [POC Validation Framework](../deliverables/poc-validation-framework.md)
+  - POC Report/Deliverable
 **Metrics**: POC to contract conversion rate
-**Timeline**: 2-4 weeks
+**Timeline**: 4 weeks standard
 **Owner**: Delivery team (John/Morten)
 
 #### Stage 6: Negotiation & Closing
@@ -135,9 +138,12 @@ Lead Generation → Qualification → Discovery → Proposal → POC → Negotia
    - Issue resolution
 
 **Output**: Production platform with full documentation
-**Templates**: Delivery Project SOW, ARS, ADD
+**Templates**: 
+  - [Delivery Project SOW](../deliverables/delivery-project-sow.md)
+  - Architecture Requirements Specification (ARS)
+  - Architecture Design Document (ADD)
 **Metrics**: Time to value, project satisfaction, on-time delivery
-**Timeline**: 9-12 weeks total
+**Timeline**: 9-12 weeks total (16 weeks in SOW template)
 **Owner**: Delivery team with Customer Success handoff
 
 #### Stage 8: Billing & Collection

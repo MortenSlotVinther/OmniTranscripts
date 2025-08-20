@@ -75,45 +75,57 @@ Requirements → AI Planning → AI Code Generation → AI Review → AI Testing
 
 ## Agentic AI Architecture
 
-### Platform: Claude Code
-- **Primary Agent Platform**: All agentic workflows built in Claude Code
+### Platform: Harmonoid + Claude Code
+- **Orchestration Layer**: Harmonoid manages all AI systems and agents
+- **Development Engine**: Claude Code executes development workflows
 - **Integration**: Direct GitHub access for code operations
 - **MCP Access**: Connected to all business systems via MCP servers
-- **Orchestration**: Claude Code manages all AI agents and workflows
+- **Agent Management**: Harmonoid coordinates specialized AI partners
 
-### Agent Types (All in Claude Code)
+### Harmonoid AI Partners
 
-#### Development Agents
-- **Feature Agent**: Implements complete features autonomously
-- **Refactor Agent**: Continuously improves code quality
-- **Optimization Agent**: Performance and resource optimization
-- **Migration Agent**: Handles technical debt and updates
+#### Specialized Partners
+- **Code Partner**: Software development, code review, refactoring
+- **Data Partner**: Analytics, SQL generation, data transformation
+- **Security Partner**: Vulnerability detection, compliance checking
+- **Jira PM Partner**: Project management, sprint planning, issue tracking
 
-#### QA Agents
-- **Test Generator**: Creates comprehensive test suites
-- **Bug Hunter**: Proactively finds potential issues
-- **Security Scanner**: Continuous vulnerability assessment
-- **Performance Monitor**: Identifies bottlenecks
+#### Development Workflows (via Partners)
+- **Feature Implementation**: Code Partner with GitHub MCP
+- **Code Quality**: Security Partner for auditing
+- **Data Analysis**: Data Partner for insights
+- **Project Coordination**: Jira PM Partner for task management
 
-#### DevOps Agents
-- **Deploy Agent**: Manages deployment pipeline
-- **Monitor Agent**: Production health monitoring
+#### QA Automation (via Partners)
+- **Test Generation**: Code Partner creates test suites
+- **Security Scanning**: Security Partner continuous assessment
+- **Performance Analysis**: Data Partner identifies bottlenecks
+- **Bug Detection**: Combined partner analysis
+
+#### DevOps Integration
+- **Deploy Management**: Claude Code triggers GitHub Actions
+- **Monitor Agents**: Real-time production monitoring
 - **Incident Response**: Automated issue resolution
-- **Scaling Agent**: Auto-scales based on load
+- **Scaling Decisions**: Data Partner analyzes load patterns
 
-### Agent Orchestration
-- **Controller**: Manages agent coordination
-- **Priority Queue**: Task distribution system
+### Agent Orchestration (Harmonoid)
+- **Team Management**: Configure AI teams for different projects
+- **Permission Control**: Granular MCP tool access per agent
+- **Task Queue**: Priority-based task distribution
+- **Token Tracking**: Usage monitoring and cost optimization
+- **Human Intervention**: Real-time alerts and override capability
 - **Feedback Loop**: Learning from outcomes
-- **Human Override**: Manual intervention when needed
+- **Activity Monitoring**: Complete audit trail
 
 ## Tools & Technologies
 
 ### Core AI Tools
+- **Harmonoid**: Central AI orchestration platform (Port 5150)
 - **Cursor AI**: Primary development IDE
+- **Claude Code**: Complex problem solving within Harmonoid
 - **GitHub Copilot**: Real-time code suggestions
-- **Claude Code**: Complex problem solving
 - **GPT-4**: Architecture and design decisions
+- **Ollama**: Local model execution for sensitive operations
 
 ### CI/CD Platform: GitHub
 - **GitHub Actions**: Complete CI/CD pipeline automation

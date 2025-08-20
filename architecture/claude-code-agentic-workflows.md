@@ -1,13 +1,15 @@
 # Claude Code Agentic Workflows
 
 ## Overview
-Claude Code serves as OmniGaze's central AI orchestration platform, managing all agentic workflows from development to deployment, integrated with GitHub CI/CD and MCP-connected business systems.
+Claude Code, orchestrated through Harmonoid, serves as OmniGaze's primary AI development engine, managing agentic workflows from development to deployment, integrated with GitHub CI/CD and MCP-connected business systems.
 
 ## Architecture
 
-### Claude Code as Central Hub
+### Integration with Harmonoid
 ```
-                     Claude Code
+                    Harmonoid Platform
+                          |
+                    Claude Code CLI
                           |
         ┌─────────────────┼─────────────────┐
         |                 |                 |
@@ -15,6 +17,13 @@ Claude Code serves as OmniGaze's central AI orchestration platform, managing all
         |                 |                 |
     CI/CD Pipeline   Business Data    Instructions
 ```
+
+### Harmonoid Orchestration
+- **Process Management**: Harmonoid manages Claude Code CLI processes
+- **Real-time Monitoring**: Output streaming and intervention detection
+- **Partner Coordination**: Works alongside specialized AI partners
+- **MCP Integration**: Shared access to business system tools
+- **Human Oversight**: Intervention alerts and approval workflows
 
 ## Core Agentic Workflows
 

@@ -4,6 +4,17 @@
 
 This repository contains comprehensive strategic intelligence derived from OmniGaze internal meetings, structured to capture and evolve strategic insights across multiple business domains.
 
+## AI Infrastructure
+
+OmniGaze operates through **Harmonoid**, our comprehensive AI orchestration platform located at `F:\RootContext\Harmonoid`. Harmonoid manages:
+- Claude Code and Gemini CLI orchestration
+- Specialized AI Partners (Code, Data, Security, Jira PM)
+- MCP server integrations (Atlassian, Dinero, GitHub, OmniGaze)
+- Real-time monitoring and human intervention management
+- Team-based AI collaboration with granular permissions
+
+This platform enables 10x productivity improvements through agentic AI workflows and automated development processes.
+
 ## Repository Structure
 
 ```
@@ -12,23 +23,33 @@ This repository contains comprehensive strategic intelligence derived from OmniG
 ├── CLAUDE.md                      # AI assistant guidance and context
 ├── README.md                      # This file
 │
-├── roadmap/
-│   └── platform-evolution.md     # OmniGaze platform development roadmap
-│
-├── internal-tools/
-│   └── development-productivity.md # Internal tooling strategy
-│
-├── future-products/
-│   └── product-ideation.md        # New product development strategy
-│
-├── market-intelligence/
-│   └── competitive-analysis.md    # Market trends and competitive positioning
+├── transcripts/                   # Meeting transcripts
+│   ├── 01-transcript.md          # Aug 19, 2025 - Morten & John
+│   └── 02-transcript.md          # Aug 20, 2025 - Morten, John & Sofie
 │
 ├── architecture/
-│   └── platform-architecture.md  # Technical architecture evolution
+│   ├── harmonoid-ai-orchestration-platform.md  # Harmonoid platform documentation
+│   ├── ai-development-strategy.md              # AI-first development approach
+│   ├── mcp-integration-strategy.md             # MCP server ecosystem
+│   ├── claude-code-agentic-workflows.md        # Agentic AI workflows
+│   └── communication-intelligence-platform.md   # Email/meeting intelligence
 │
-└── business-strategy/
-    └── go-to-market.md           # Business strategy and market approach
+├── business-strategy/
+│   ├── business-model-canvas.md                # Business model documentation
+│   ├── value-streams.md                        # Lead-to-Cash processes
+│   └── customer-knowledge-management.md        # Customer intelligence
+│
+├── roadmap/
+│   └── platform-evolution.md                   # OmniGaze platform roadmap
+│
+├── internal-tools/
+│   └── development-productivity.md             # Internal tooling strategy
+│
+├── future-products/
+│   └── product-ideation.md                     # New product development
+│
+└── market-intelligence/
+    └── competitive-analysis.md                 # Market trends and positioning
 ```
 
 ## Document Evolution Process

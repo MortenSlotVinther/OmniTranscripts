@@ -14,6 +14,9 @@ The omni-transcripts project is designed to digest and analyze OmniGaze's intern
 
 OmniGaze is an advanced IT Asset Management (ITAM) and Enterprise Architecture (EA) platform that combines automated discovery, comprehensive documentation, and real-time monitoring with AI-driven insights to provide organizations with complete visibility into their IT landscape. The platform helps enterprises manage complex IT environments, ensure compliance, and make data-driven architectural decisions.
 
+**AI Orchestration Platform - Harmonoid:**
+OmniGaze operates through Harmonoid, a comprehensive AI orchestration platform that manages Claude Code, specialized AI partners (Code, Data, Security, Jira PM), and MCP integrations. Harmonoid provides real-time monitoring, human intervention management, and team-based AI collaboration at http://localhost:5150 (development). This platform enables 10x productivity improvements through agentic AI workflows and automated development processes.
+
 **Core Platform Overview:**
 OmniGaze serves as a unified solution for IT observability, asset management, and enterprise architecture, offering organizations a comprehensive view of their technology ecosystem from infrastructure to applications to business processes. The platform now features MCP Server functionality, enabling Large Language Models (LLMs) to automatically connect and enrich discovered elements and flows, creating an intelligent knowledge graph that spans from hardware and software discovery through applications all the way to business capabilities.
 
