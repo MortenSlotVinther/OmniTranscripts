@@ -13,6 +13,13 @@
 - **Equity Dilution**: 15-20% acceptable for larger round
 - **Timeline**: Immediate pursuit
 
+### Extraordinary Efficiency Metrics
+- **Revenue**: €317K with just 2 people (2024)
+- **Burn Rate**: €19K/month vs. industry €200K/month
+- **Revenue per Employee**: €158,750 (exceeds Slack, Dropbox, Zoom at similar stage)
+- **Implementation Speed**: 48 hours vs. 6 months industry standard
+- **Competitive Wins**: Multiple victories against ServiceNow and Ardoq
+
 ## Investor Profile
 
 ### Target Investors
@@ -37,6 +44,12 @@
   - Unique positioning in ITAM/EA space
   - AI-driven competitive advantage
   - Proven team with domain expertise
+
+- **The Asymmetric Opportunity**
+  - Downside: €500K-5M investment in proven model
+  - Upside: 100x+ return potential (not just 10x)
+  - Most efficient enterprise SaaS company ever created
+  - Proprietary AI development engine as unfair advantage
 
 ## Use of Funds
 
@@ -130,10 +143,36 @@
 - **Execution Risk**: Clear roadmap and milestones
 
 ### De-risking Strategy
-- Show existing traction and customers
-- Demonstrate product-market fit
-- Highlight team expertise
-- Clear path to profitability
+- Show existing traction and customers (€317K revenue, 7 enterprise clients)
+- Demonstrate product-market fit (beating ServiceNow in RFPs)
+- Highlight team expertise (2 people doing work of 20)
+- Clear path to profitability (€19K burn, high margins)
+- Proven AI development engine (10x productivity multiplier)
+
+## Strategic Exit Opportunities
+
+### Identified Acquirers
+- **ITSM Players**: ServiceNow, SAP (LeanIX), Ardoq
+  - Natural extension for discovery to governance
+  - Multiple competitive wins demonstrate superiority
+  
+- **Observability Giants**: Datadog, Dynatrace
+  - Missing enterprise architecture piece
+  - Complementary to monitoring capabilities
+  
+- **Cloud/Security**: Microsoft, AWS, CrowdStrike, Palo Alto
+  - Compliance and governance solutions
+  - Massive budgets for enterprise control
+  
+- **Consulting Firms**: Big 4, Bureau Veritas
+  - Backbone for audits and M&A
+  - Scalable solution for enterprise clients
+
+### Exit Valuation Potential
+- Each acquirer can spend €100M+ without board approval
+- Category-defining position in AI-era enterprise control
+- Real-time IT control tied to business outcomes
+- Billion-dollar acquisition potential
 
 ## Alternative Scenarios
 

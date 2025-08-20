@@ -14,7 +14,8 @@
       "Bash(gh repo create:*)",
       "Bash(gh auth:*)",
       "Bash(git remote set-url:*)",
-      "Bash(git push:*)"
+      "Bash(git push:*)",
+      "Bash(rm:*)"
     ],
     "deny": [],
     "ask": []
