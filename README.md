@@ -18,14 +18,23 @@ This platform enables 10x productivity improvements through agentic AI workflows
 ## Repository Structure
 
 ```
-├── strategic-framework.md          # Overall framework and methodology
-├── meeting-processing-workflow.md  # Transcript processing procedures
 ├── CLAUDE.md                      # AI assistant guidance and context
 ├── README.md                      # This file
+│
+├── methodology/                   # Framework and methodology documentation
+│   ├── strategic-framework.md    # Overall framework and methodology
+│   └── meeting-processing-workflow.md # Transcript processing procedures
 │
 ├── transcripts/                   # Meeting transcripts
 │   ├── 01-transcript.md          # Aug 19, 2025 - Morten & John
 │   └── 02-transcript.md          # Aug 20, 2025 - Morten, John & Sofie
+│
+├── meeting-summaries/             # Processed meeting insights
+│   ├── 2025-08-19-meeting.md    # Strategic planning summary
+│   └── 2025-08-20-meeting.md    # Go-to-market and sales strategy
+│
+├── team/                          # Team and organizational information
+│   └── leadership-profiles.md    # Leadership team documentation
 │
 ├── architecture/
 │   ├── harmonoid-ai-orchestration-platform.md  # Harmonoid platform documentation
@@ -38,6 +47,29 @@ This platform enables 10x productivity improvements through agentic AI workflows
 │   ├── business-model-canvas.md                # Business model documentation
 │   ├── value-streams.md                        # Lead-to-Cash processes
 │   └── customer-knowledge-management.md        # Customer intelligence
+│
+├── deliverables/                  # Standard customer deliverable templates
+│   ├── README.md                 # Delivery model overview
+│   ├── poc-sow.md               # POC Statement of Work template
+│   ├── poc-validation-framework.md # POC validation scenarios
+│   ├── delivery-project-sow.md  # Product delivery SOW template
+│   ├── delivery-phases-summary.md # Implementation phase details
+│   ├── pid-template.md          # Project Initiation Document
+│   ├── ars-template.md          # Architecture Requirements Specification
+│   └── add-template.md          # Architecture Definition Document
+│
+├── processes/                     # Business process documentation
+│   ├── README.md                 # Process governance framework
+│   └── lead-to-cash/            # End-to-end revenue process
+│       ├── overview.md          # ASCII process flow diagram
+│       ├── 01-lead-generation.md
+│       ├── 02-discovery-meeting.md
+│       ├── 03-solution-design.md
+│       ├── 04-proof-of-concept.md
+│       ├── 05-negotiation.md
+│       ├── 06-contract-execution.md
+│       ├── 07-product-delivery.md
+│       └── 08-payment-collection.md
 │
 ├── roadmap/
 │   └── platform-evolution.md                   # OmniGaze platform roadmap
@@ -82,6 +114,8 @@ Documents evolve continuously as strategic discussions progress, ensuring curren
 - **Market Intelligence**: Competitive landscape and market opportunity analysis
 - **Architecture**: Technical platform architecture and innovation strategy
 - **Business Strategy**: Go-to-market, partnerships, and revenue growth initiatives
+- **Deliverables**: Standardized customer engagement templates (POC, SOW, PID, ARS, ADD)
+- **Processes**: End-to-end business processes including comprehensive Lead-to-Cash workflow
 
 ## Usage Guidelines
 
@@ -93,6 +127,12 @@ The framework enables analysis of strategic initiatives across multiple business
 
 ### For Progress Tracking
 Documents capture not only strategic intentions but also progress against stated goals and evolving priorities.
+
+### For Customer Engagements
+The deliverables folder provides standardized templates for all customer engagement phases, from POC through full implementation.
+
+### For Operational Excellence
+The processes documentation ensures consistent execution of business operations with defined metrics and governance.
 
 ## Metadata Framework
 
