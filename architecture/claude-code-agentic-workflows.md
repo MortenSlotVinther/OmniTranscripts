@@ -8,13 +8,13 @@ Claude Code, orchestrated through Harmonoid, serves as OmniGaze's primary AI dev
 ### Integration with Harmonoid
 ```
                     Harmonoid Platform
-                          |
+                           |
                     Claude Code CLI
-                          |
-        ┌─────────────────┼─────────────────┐
-        |                 |                 |
+                           |
+        ┌──────────┼──────────┐
+        |                  |                 |
     GitHub Repo      MCP Servers      Team Users
-        |                 |                 |
+        |                  |                 |
     CI/CD Pipeline   Business Data    Instructions
 ```
 

@@ -34,14 +34,14 @@ Systematic approach for transforming internal meeting transcripts into structure
 
 ### Meeting Content → Document Structure
 
-| Discussion Topic | Target Document | Processing Notes |
-|------------------|-----------------|------------------|
-| Platform features & capabilities | `roadmap/platform-evolution.md` | Technical roadmap updates |
-| Internal tooling needs | `internal-tools/development-productivity.md` | Development efficiency focus |
-| New product concepts | `future-products/product-ideation.md` | Innovation pipeline updates |
-| Market opportunities | `market-intelligence/competitive-analysis.md` | External landscape insights |
-| Technical architecture | `architecture/platform-architecture.md` | System design decisions |
-| Business strategy | `business-strategy/go-to-market.md` | Commercial strategy updates |
+| Discussion Topic                 | Target Document                               | Processing Notes             |
+|----------------------------------|-----------------------------------------------|------------------------------|
+| Platform features & capabilities | `roadmap/platform-evolution.md`               | Technical roadmap updates    |
+| Internal tooling needs           | `internal-tools/development-productivity.md`  | Development efficiency focus |
+| New product concepts             | `future-products/product-ideation.md`         | Innovation pipeline updates  |
+| Market opportunities             | `market-intelligence/competitive-analysis.md` | External landscape insights  |
+| Technical architecture           | `architecture/platform-architecture.md`       | System design decisions      |
+| Business strategy                | `business-strategy/go-to-market.md`           | Commercial strategy updates  |
 
 ## Quality Assurance Process
 
