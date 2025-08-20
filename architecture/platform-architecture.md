@@ -11,7 +11,18 @@
 - **MCP Server**: AI-driven knowledge graph enrichment
 
 ### Technology Stack
-*Current technology choices and rationale*
+- **Primary Language**: C# (.NET)
+- **Development IDEs**: Cursor AI, Visual Studio Code
+- **Version Control**: GitHub (migrating from Bitbucket)
+- **Project Management**: Atlassian Jira
+- **Documentation**: Markdown in Git (primary), Confluence (legacy)
+
+### AI-Driven Development Strategy
+- **Code Development**: Agentic AI workflows for code generation
+- **Coding Assistants**: Cursor AI, GitHub Copilot, Claude Code
+- **Automated QA**: AI-powered testing and quality assurance
+- **Code Review**: AI-assisted review and optimization
+- **Documentation**: Auto-generated from code and AI analysis
 
 ### Deployment Architecture
 *On-premises, cloud, and hybrid deployment patterns*

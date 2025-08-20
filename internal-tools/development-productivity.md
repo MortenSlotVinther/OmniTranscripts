@@ -7,9 +7,19 @@ Strategic framework for internal tooling that enhances development productivity,
 ## Current Tooling Landscape
 
 ### Development Environment
-- **Documentation**: Transitioning to markdown-first approach
-- **Editors**: Considering Obsidian and VS Code for markdown editing
-- **Version Control**: Git-based workflows for all documentation
+- **Primary Language**: C# (.NET platform)
+- **Code Editors**: Cursor AI IDE, Visual Studio Code
+- **Documentation**: Markdown-first approach (Obsidian, VS Code for editing)
+- **Version Control**: GitHub (migrating all code from Bitbucket)
+- **Project Management**: Atlassian Jira
+- **Knowledge Base**: Markdown repositories (primary), Confluence (legacy)
+
+### AI-Powered Development Pipeline
+- **Agentic AI Workflows**: Autonomous code generation and refactoring
+- **Coding Assistants**: Cursor AI, GitHub Copilot, Claude Code
+- **Automated Testing**: AI-driven test generation and execution
+- **Quality Assurance**: AI-powered code review and bug detection
+- **CI/CD**: GitHub Actions with AI-enhanced automation
 
 ### Communication & Collaboration
 - **Current**: Microsoft Teams (customer requirement)
