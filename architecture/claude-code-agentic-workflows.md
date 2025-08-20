@@ -18,7 +18,74 @@ Claude Code serves as OmniGaze's central AI orchestration platform, managing all
 
 ## Core Agentic Workflows
 
-### 1. Feature Development Workflow
+### 1. Email Intelligence Workflow
+
+#### Trigger
+- Continuous monitoring of all team inboxes
+- Scheduled batch processing
+
+#### Claude Code Actions
+1. **Email Collection**
+   - Connect to email accounts via API
+   - Retrieve new messages
+   - Reconstruct conversation threads
+
+2. **AI Analysis**
+   - Classify email type (customer/internal/vendor)
+   - Extract key information (tasks, agreements, decisions)
+   - Identify customer attribution
+   - Perform sentiment analysis
+
+3. **Markdown Generation**
+   - Create structured markdown document
+   - Include summary and action items
+   - Preserve original content
+   - Add metadata and tags
+
+4. **Repository Filing**
+   - Determine correct customer folder
+   - Commit to Git repository
+   - Update customer dashboard
+   - Trigger notifications if needed
+
+#### Output
+- Organized markdown files per customer
+- Updated task lists
+- Searchable communication history
+
+### 2. Meeting Transcription Workflow
+
+#### Trigger
+- Meeting ends in Teams
+- Manual upload of recording
+- Scheduled processing
+
+#### Claude Code Actions
+1. **Transcript Processing**
+   - Retrieve recording/transcript
+   - Enhance with AI processing
+   - Identify speakers
+   - Segment by topics
+
+2. **Content Analysis**
+   - Extract key decisions
+   - Identify action items
+   - Generate summary
+   - Analyze sentiment
+
+3. **Documentation**
+   - Create markdown transcript
+   - File in customer folder
+   - Update task tracking
+   - Link to related documents
+
+4. **Follow-up**
+   - Create tasks in Jira
+   - Update HubSpot activities
+   - Send summary to participants
+   - Schedule follow-up reminders
+
+### 3. Feature Development Workflow
 
 #### Trigger
 - Jira ticket assigned or user request
