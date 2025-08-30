@@ -1,0 +1,683 @@
+<h1>OmniGaze Series A Pitch Deck</h1>
+<h2>€5M for 15% Equity | The Enterprise AI Infrastructure Play</h2>
+
+<link rel="stylesheet" href="OmniGaze-PitchDeck-5M-Series-A-Professional/css/pitch-deck.css">
+
+---
+
+<div class="slide">
+
+<h1><strong>OmniGaze</strong></h1>
+<h2>The AI Operating System for Enterprise Software Development</h2>
+
+<p style="font-size: 1.3rem; color: var(--gray); margin: 2rem 0;">
+<em>Building the infrastructure layer that Cursor and Lovable can't reach</em>
+</p>
+
+<div class="investment-box">
+  <div class="investment-number">Series A: €5M for 15% equity</div>
+  <div class="investment-detail">Contact: investors@omnigaze.com</div>
+</div>
+
+</div>
+
+---
+
+<div class="slide compact">
+
+<h2>The €1 Trillion Problem</h2>
+
+<div class="problem-grid">
+  <div class="problem-card">
+    <span class="problem-number">$500B</span>
+    <span class="problem-text">Annual enterprise software spend</span>
+  </div>
+  <div class="problem-card">
+    <span class="problem-number">70%</span>
+    <span class="problem-text">AI projects fail from complexity</span>
+  </div>
+  <div class="problem-card">
+    <span class="problem-number">90%</span>
+    <span class="problem-text">Unsolved: Integration & compliance</span>
+  </div>
+</div>
+
+<div class="key-point" style="margin-top: 1.5rem;">
+<strong>Individual Tools Win Battles. Infrastructure Wins Wars.</strong>
+</div>
+
+</div>
+
+---
+
+<div class="slide">
+
+<h2>The Category-Defining Solution</h2>
+
+<h3><strong>OmniGaze: The Four-Layer AI Stack</strong></h3>
+
+<div class="stack-visual">
+  <div class="stack-layer">
+    <span class="layer-name">Strategic Alignment</span>
+    <span class="layer-desc">→ Business outcomes</span>
+  </div>
+  <div class="stack-layer">
+    <span class="layer-name">Observability</span>
+    <span class="layer-desc">→ Real-time control</span>
+  </div>
+  <div class="stack-layer">
+    <span class="layer-name">Integration</span>
+    <span class="layer-desc">→ Enterprise systems</span>
+  </div>
+  <div class="stack-layer">
+    <span class="layer-name">Infrastructure</span>
+    <span class="layer-desc">→ Foundation (OmniGaze)</span>
+  </div>
+</div>
+
+<div class="key-point">
+  <strong>Cursor/Lovable:</strong> Code snippets for developers<br>
+  <strong>OmniGaze:</strong> Complete enterprise transformation
+</div>
+
+<p style="font-size: 1.2rem; font-weight: 700; color: var(--primary-purple); text-align: center; margin-top: 2rem;">
+<em>We don't compete with developer tools. We enable them at enterprise scale.</em>
+</p>
+
+</div>
+
+---
+
+<div class="slide">
+
+<h2>Traction That Defies Logic</h2>
+
+<div class="hero-metric">€317K Revenue</div>
+<div class="hero-subtitle">2 People. 0 External Capital.</div>
+
+<h3><strong>Customer Wins</strong></h3>
+
+<div class="comparison-table">
+  <div class="comparison-row">
+    <span class="comparison-label">Stark Group</span>
+    <span class="comparison-us">Saves €25K/month</span>
+    <span class="comparison-them">Multi-country</span>
+  </div>
+  <div class="comparison-row">
+    <span class="comparison-label">GN Store Nord</span>
+    <span class="comparison-us">Beat ServiceNow</span>
+    <span class="comparison-them">Head-to-head RFP</span>
+  </div>
+  <div class="comparison-row">
+    <span class="comparison-label">Wrist Ship Supply</span>
+    <span class="comparison-us">Chose us</span>
+    <span class="comparison-them">Over Ardoq</span>
+  </div>
+</div>
+
+<h3><strong>Efficiency Metrics</strong></h3>
+
+<div class="unit-container">
+  <div class="unit-metric">
+    <div class="unit-label">Revenue/Employee</div>
+    <div class="unit-value">€158K</div>
+  </div>
+  <div class="unit-metric">
+    <div class="unit-label">Monthly Burn</div>
+    <div class="unit-value">€19K</div>
+  </div>
+  <div class="unit-metric">
+    <div class="unit-label">Implementation</div>
+    <div class="unit-value">48hrs</div>
+  </div>
+</div>
+
+<div class="key-point">
+<strong>This isn't potential. This is proof.</strong>
+</div>
+
+</div>
+
+---
+
+<div class="slide">
+
+<h2>The €18M Engineering Miracle - Part 1</h2>
+
+<h3><strong>The Platform Reality</strong></h3>
+
+<div class="problem-grid">
+  <div class="problem-card">
+    <span class="problem-number" style="color: var(--primary-purple);">400K+</span>
+    <span class="problem-text">Lines of Production C# Code</span>
+  </div>
+  <div class="problem-card">
+    <span class="problem-number" style="color: var(--primary-purple);">182</span>
+    <span class="problem-text">Developer-Years of Effort</span>
+  </div>
+  <div class="problem-card">
+    <span class="problem-number" style="color: var(--success-green);">Zero</span>
+    <span class="problem-text">Critical Failures in 2 Years</span>
+  </div>
+</div>
+
+<div class="investment-box">
+  <div class="investment-number">€18M of Software</div>
+  <div class="investment-detail">Built for Less Than €1M</div>
+</div>
+
+</div>
+
+---
+
+<div class="slide compact">
+
+<h2>The €18M Engineering Miracle - Part 2</h2>
+
+<h3><strong>The Impossible Math</strong></h3>
+
+<div class="comparison-table">
+  <div class="comparison-row">
+    <span class="comparison-label">Metric</span>
+    <span class="comparison-us">OmniGaze</span>
+    <span class="comparison-them">Traditional</span>
+  </div>
+  <div class="comparison-row">
+    <span class="comparison-label">Developers</span>
+    <span class="comparison-us">2</span>
+    <span class="comparison-them">20</span>
+  </div>
+  <div class="comparison-row">
+    <span class="comparison-label">Timeline</span>
+    <span class="comparison-us">3 years</span>
+    <span class="comparison-them">9 years</span>
+  </div>
+  <div class="comparison-row">
+    <span class="comparison-label">Cost</span>
+    <span class="comparison-us">€600K</span>
+    <span class="comparison-them">€18.2M</span>
+  </div>
+  <div class="comparison-row">
+    <span class="comparison-label">FTE-Years</span>
+    <span class="comparison-us">6</span>
+    <span class="comparison-them">180</span>
+  </div>
+</div>
+
+<div class="hero-metric">30x Efficiency</div>
+
+</div>
+
+---
+
+<div class="slide compact">
+
+<h2>The €18M Engineering Miracle - Part 3</h2>
+
+<h3><strong>How We Did It & The Competitive Implication</strong></h3>
+
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; max-width: 700px; margin: 0 auto;">
+  <div class="moat-layer" style="max-width: none;">
+    <strong>Elite talent:</strong> 30x developers
+  </div>
+  <div class="moat-layer" style="max-width: none;">
+    <strong>Zero waste:</strong> No meetings, no debt
+  </div>
+  <div class="moat-layer" style="max-width: none;">
+    <strong>AI acceleration:</strong> Harmonoid engine
+  </div>
+  <div class="moat-layer" style="max-width: none;">
+    <strong>Perfect focus:</strong> One problem, done right
+  </div>
+</div>
+
+<div class="urgent" style="margin-top: 1.5rem;">
+Competitors need €18M+ and 9 years to match our foundation
+</div>
+
+<div class="key-point">
+<strong>This isn't a startup. It's a €18M enterprise platform disguised as a seed company.</strong>
+</div>
+
+</div>
+
+---
+
+<div class="slide compact">
+
+<h2>The Technology Moat</h2>
+
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; max-width: 700px; margin: 1rem auto;">
+  <div style="background: linear-gradient(135deg, #FFE5E5 0%, #FFD0D0 100%); padding: 1rem; border-radius: 12px;">
+    <h4 style="color: var(--urgent-red); margin-bottom: 0.5rem; font-size: 1rem;">Cursor/Lovable Limits</h4>
+    <ul style="list-style: none; padding: 0; font-size: 0.9rem;">
+      <li style="padding: 0.3rem 0;">❌ No enterprise scale</li>
+      <li style="padding: 0.3rem 0;">❌ No compliance</li>
+      <li style="padding: 0.3rem 0;">❌ No legacy integration</li>
+      <li style="padding: 0.3rem 0;">❌ No observability</li>
+    </ul>
+  </div>
+  <div style="background: linear-gradient(135deg, #E5FFE5 0%, #D0FFD0 100%); padding: 1rem; border-radius: 12px;">
+    <h4 style="color: var(--success-green); margin-bottom: 0.5rem; font-size: 1rem;">OmniGaze Delivers</h4>
+    <ul style="list-style: none; padding: 0; font-size: 0.9rem;">
+      <li style="padding: 0.3rem 0;">✅ 10x productivity</li>
+      <li style="padding: 0.3rem 0;">✅ Self-healing</li>
+      <li style="padding: 0.3rem 0;">✅ Auto-compliance</li>
+      <li style="padding: 0.3rem 0;">✅ Full discovery</li>
+    </ul>
+  </div>
+</div>
+
+<div class="investment-box" style="padding: 0.8rem 1.5rem; margin-top: 1rem;">
+  <div style="font-size: 1.2rem; font-weight: 700;">2 years ahead. Compounding daily.</div>
+</div>
+
+</div>
+
+---
+
+<div class="slide compact">
+
+<h2>Market Dynamics - Why Now</h2>
+
+<h3><strong>Three Forces Creating a Perfect Storm</strong></h3>
+
+<div class="problem-grid">
+  <div class="problem-card">
+    <div style="font-size: 1.5rem; margin-bottom: 0.3rem;">⚖️</div>
+    <strong style="color: var(--primary-purple); font-size: 0.95rem;">Regulatory Tsunami</strong>
+    <ul style="text-align: left; margin-top: 0.3rem; font-size: 0.85rem;">
+      <li>NIS2 (July 2025)</li>
+      <li>€10M+ fines</li>
+      <li>Every EU enterprise</li>
+    </ul>
+  </div>
+  <div class="problem-card">
+    <div style="font-size: 1.5rem; margin-bottom: 0.3rem;">💰</div>
+    <strong style="color: var(--primary-purple); font-size: 0.95rem;">Economic Pressure</strong>
+    <ul style="text-align: left; margin-top: 0.3rem; font-size: 0.85rem;">
+      <li>20-30% cost cuts</li>
+      <li>ROI < 6 months</li>
+      <li>€25K/month proven</li>
+    </ul>
+  </div>
+  <div class="problem-card">
+    <div style="font-size: 1.5rem; margin-bottom: 0.3rem;">🤖</div>
+    <strong style="color: var(--primary-purple); font-size: 0.95rem;">AI Revolution</strong>
+    <ul style="text-align: left; margin-top: 0.3rem; font-size: 0.85rem;">
+      <li>Control needed</li>
+      <li>Infrastructure critical</li>
+      <li>Winner takes all</li>
+    </ul>
+  </div>
+</div>
+
+<div class="urgent" style="margin-top: 1rem;">
+The window is 12-18 months. Then the market consolidates.
+</div>
+
+</div>
+
+---
+
+<div class="slide">
+
+<h2>Go-to-Market Strategy</h2>
+
+<h3><strong>Land, Expand, Dominate</strong></h3>
+
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; max-width: 800px; margin: 2rem auto;">
+  <div style="background: var(--white); padding: 1.5rem; border-radius: 10px; box-shadow: 0 5px 20px rgba(0,0,0,0.08); text-align: center; border-top: 4px solid var(--primary-purple);">
+    <div style="font-size: 2rem; font-weight: 700; color: var(--primary-purple); margin-bottom: 0.5rem;">Phase 1</div>
+    <strong>Direct Enterprise</strong>
+    <div style="font-size: 0.9rem; margin-top: 0.5rem;">
+      7 customers<br>
+      €100K+ ACV<br>
+      Current
+    </div>
+  </div>
+  <div style="background: var(--white); padding: 1.5rem; border-radius: 10px; box-shadow: 0 5px 20px rgba(0,0,0,0.08); text-align: center; border-top: 4px solid var(--primary-purple);">
+    <div style="font-size: 2rem; font-weight: 700; color: var(--primary-purple); margin-bottom: 0.5rem;">Phase 2</div>
+    <strong>Self-Service</strong>
+    <div style="font-size: 0.9rem; margin-top: 0.5rem;">
+      SMB/Mid-market<br>
+      €10K entry<br>
+      Q1 2025
+    </div>
+  </div>
+  <div style="background: var(--white); padding: 1.5rem; border-radius: 10px; box-shadow: 0 5px 20px rgba(0,0,0,0.08); text-align: center; border-top: 4px solid var(--primary-purple);">
+    <div style="font-size: 2rem; font-weight: 700; color: var(--primary-purple); margin-bottom: 0.5rem;">Phase 3</div>
+    <strong>Channel Partners</strong>
+    <div style="font-size: 0.9rem; margin-top: 0.5rem;">
+      Big 4 & SIs<br>
+      Compliance firms<br>
+      Q2 2025
+    </div>
+  </div>
+</div>
+
+<div class="key-point">
+<strong>From 1 customer/month → 10/month → 100/month</strong>
+</div>
+
+</div>
+
+---
+
+<div class="slide compact">
+
+<h2>Competitive Landscape</h2>
+
+<div class="competitive-matrix" style="font-size: 0.85rem;">
+  <div class="matrix-header">Feature</div>
+  <div class="matrix-header">Cursor</div>
+  <div class="matrix-header">ServiceNow</div>
+  <div class="matrix-header">OmniGaze</div>
+  
+  <div class="matrix-cell matrix-row-header">Target</div>
+  <div class="matrix-cell">Devs</div>
+  <div class="matrix-cell">IT</div>
+  <div class="matrix-cell omnigaze">Enterprise</div>
+  
+  <div class="matrix-cell matrix-row-header">Scale</div>
+  <div class="matrix-cell">Project</div>
+  <div class="matrix-cell">Dept</div>
+  <div class="matrix-cell omnigaze">Org-wide</div>
+  
+  <div class="matrix-cell matrix-row-header">Deploy</div>
+  <div class="matrix-cell">Minutes</div>
+  <div class="matrix-cell">6 months</div>
+  <div class="matrix-cell omnigaze">48 hours</div>
+  
+  <div class="matrix-cell matrix-row-header">Price</div>
+  <div class="matrix-cell">$20</div>
+  <div class="matrix-cell">$1M+</div>
+  <div class="matrix-cell omnigaze">70% less</div>
+  
+  <div class="matrix-cell matrix-row-header">AI</div>
+  <div class="matrix-cell">Code gen</div>
+  <div class="matrix-cell">Bolt-on</div>
+  <div class="matrix-cell omnigaze">Native</div>
+</div>
+
+<div class="key-point" style="font-size: 1.1rem; margin-top: 1rem;">
+<strong>Cursor builds code. We build companies.</strong>
+</div>
+
+</div>
+
+---
+
+<div class="slide">
+
+<h2>Unit Economics</h2>
+
+<h3><strong>The Math of Inevitability</strong></h3>
+
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; max-width: 700px; margin: 2rem auto;">
+  <div style="background: var(--white); padding: 1.5rem; border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.1); border: 3px solid var(--primary-purple);">
+    <h4 style="color: var(--primary-purple); text-align: center; margin-bottom: 1rem;">Current (2 people)</h4>
+    <div style="display: flex; justify-content: space-between; padding: 0.5rem 0; border-bottom: 1px solid #eee;">
+      <span>Revenue</span>
+      <strong>€317K</strong>
+    </div>
+    <div style="display: flex; justify-content: space-between; padding: 0.5rem 0; border-bottom: 1px solid #eee;">
+      <span>Burn</span>
+      <strong>€228K/yr</strong>
+    </div>
+    <div style="display: flex; justify-content: space-between; padding: 0.5rem 0;">
+      <span>Efficiency</span>
+      <strong style="color: var(--success-green);">139%</strong>
+    </div>
+  </div>
+  <div style="background: var(--white); padding: 1.5rem; border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.1); border: 3px solid var(--success-green);">
+    <h4 style="color: var(--success-green); text-align: center; margin-bottom: 1rem;">Post-Series A (20 people)</h4>
+    <div style="display: flex; justify-content: space-between; padding: 0.5rem 0; border-bottom: 1px solid #eee;">
+      <span>Target</span>
+      <strong>€5M ARR</strong>
+    </div>
+    <div style="display: flex; justify-content: space-between; padding: 0.5rem 0; border-bottom: 1px solid #eee;">
+      <span>Burn</span>
+      <strong>€2.4M/yr</strong>
+    </div>
+    <div style="display: flex; justify-content: space-between; padding: 0.5rem 0;">
+      <span>Efficiency</span>
+      <strong style="color: var(--success-green);">208%</strong>
+    </div>
+  </div>
+</div>
+
+<div class="success-metric">
+  <span class="success-number">€2+ Return</span>
+  <div>For every €1 invested in year one</div>
+</div>
+
+</div>
+
+---
+
+<div class="slide">
+
+<h2>Use of Funds</h2>
+
+<h3><strong>€5M to Own the Enterprise AI Layer</strong></h3>
+
+<div style="display: flex; justify-content: center; gap: 2rem; margin: 2rem 0;">
+  <div style="text-align: center;">
+    <div style="width: 100px; height: 100px; background: var(--gradient-primary); border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 0.5rem; color: white; font-size: 1.5rem; font-weight: 700;">40%</div>
+    <strong>Product & AI</strong>
+    <div style="font-size: 0.85rem; color: var(--gray);">Harmonoid engine</div>
+  </div>
+  <div style="text-align: center;">
+    <div style="width: 100px; height: 100px; background: var(--gradient-success); border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 0.5rem; color: white; font-size: 1.5rem; font-weight: 700;">30%</div>
+    <strong>Go-to-Market</strong>
+    <div style="font-size: 0.85rem; color: var(--gray);">Sales team (4)</div>
+  </div>
+  <div style="text-align: center;">
+    <div style="width: 100px; height: 100px; background: linear-gradient(135deg, #3D41D6 0%, #0014A3 100%); border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 0.5rem; color: white; font-size: 1.5rem; font-weight: 700;">20%</div>
+    <strong>Engineering</strong>
+    <div style="font-size: 0.85rem; color: var(--gray);">6 senior devs</div>
+  </div>
+  <div style="text-align: center;">
+    <div style="width: 100px; height: 100px; background: linear-gradient(135deg, #6C757D 0%, #495057 100%); border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 0.5rem; color: white; font-size: 1.5rem; font-weight: 700;">10%</div>
+    <strong>Buffer</strong>
+    <div style="font-size: 0.85rem; color: var(--gray);">Operating reserve</div>
+  </div>
+</div>
+
+<div class="key-point">
+<strong>18-month runway to €10M ARR</strong>
+</div>
+
+</div>
+
+---
+
+<div class="slide">
+
+<h2>The Team</h2>
+
+<h3><strong>Built Different. Literally.</strong></h3>
+
+<div class="team-grid">
+  <div class="team-member">
+    <div class="member-name">Morten Vinther</div>
+    <div class="member-role">CEO</div>
+    <div class="member-bio">Former Microsoft • EA Corner founder • 20+ years enterprise</div>
+  </div>
+  <div class="team-member">
+    <div class="member-name">John Fabienke</div>
+    <div class="member-role">CTO</div>
+    <div class="member-bio">Enterprise architect • Creator of Harmonoid AI • Cloud expert</div>
+  </div>
+  <div class="team-member">
+    <div class="member-name">Sofie Levi Pourhadi</div>
+    <div class="member-role">Head of Sales</div>
+    <div class="member-bio">Ex-Microsoft, Zscaler • Closed Stark, GN, Wrist</div>
+  </div>
+</div>
+
+<div class="urgent" style="font-size: 1.3rem;">
+What takes others 20 people, we do with 2.<br>
+Imagine what we'll do with 20.
+</div>
+
+</div>
+
+---
+
+<div class="slide">
+
+<h2>Exit Strategy</h2>
+
+<h3><strong>Multiple Paths to €1B+ Outcome</strong></h3>
+
+<div class="exit-container">
+  <div class="exit-path">
+    <div class="exit-acquirer">ServiceNow/SAP</div>
+    <div class="exit-value">10-15x</div>
+  </div>
+  <div class="exit-path">
+    <div class="exit-acquirer">Datadog/Dynatrace</div>
+    <div class="exit-value">15-20x</div>
+  </div>
+  <div class="exit-path">
+    <div class="exit-acquirer">Microsoft/AWS/Google</div>
+    <div class="exit-value">20-30x</div>
+  </div>
+</div>
+
+<h3><strong>Recent Comparables</strong></h3>
+<div style="display: flex; justify-content: center; gap: 2rem; margin: 1.5rem 0;">
+  <span>Moogsoft → $150M</span>
+  <span>BigPanda → $1.2B</span>
+  <span>LeanIX → €1.2B to SAP</span>
+</div>
+
+<div class="key-point">
+<strong>We're building the next billion-dollar exit.</strong>
+</div>
+
+</div>
+
+---
+
+<div class="slide compact">
+
+<h2>The Ask</h2>
+
+<h3><strong>€5M for 15% - The Last Chance at This Valuation</strong></h3>
+
+<div class="investment-box">
+  <div class="investment-number">€5,000,000</div>
+  <div class="investment-detail">Series A • 15% Equity • €33.3M Valuation</div>
+</div>
+
+<h3><strong>What You Get</strong></h3>
+<ul style="text-align: left; max-width: 600px; margin: 0 auto;">
+  <li>Entry into enterprise AI infrastructure (TAM: €50B+)</li>
+  <li>Proven team with impossible metrics</li>
+  <li>Product-market fit with blue-chip customers</li>
+  <li>100x return potential (not 10x)</li>
+</ul>
+
+<h3><strong>Why This Is Fair</strong></h3>
+<ul style="text-align: left; max-width: 600px; margin: 0 auto;">
+  <li>€317K revenue × 100 (AI multiple) = €31.7M</li>
+  <li>Proven wins against €10B+ competitors</li>
+  <li>2 years ahead on proprietary AI</li>
+</ul>
+
+<div class="key-point">
+<strong>Terms:</strong> €5M Series A | 15% equity | Board seat | Pro-rata rights
+</div>
+
+</div>
+
+---
+
+<div class="slide compact">
+
+<h2>Why Invest Now</h2>
+
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 0.8rem; max-width: 700px; margin: 1rem auto;">
+  <div style="background: var(--white); padding: 0.8rem; border-radius: 8px; box-shadow: 0 5px 15px rgba(0,0,0,0.08); border-top: 3px solid var(--urgent-red);">
+    <strong style="color: var(--urgent-red); font-size: 0.95rem;">Market Timing</strong>
+    <ul style="margin-top: 0.3rem; font-size: 0.8rem; padding-left: 1rem;">
+      <li>NIS2 deadline</li>
+      <li>Q1 2025 launch</li>
+      <li>First-mover</li>
+    </ul>
+  </div>
+  <div style="background: var(--white); padding: 0.8rem; border-radius: 8px; box-shadow: 0 5px 15px rgba(0,0,0,0.08); border-top: 3px solid var(--urgent-red);">
+    <strong style="color: var(--urgent-red); font-size: 0.95rem;">Competitive Moat</strong>
+    <ul style="margin-top: 0.3rem; font-size: 0.8rem; padding-left: 1rem;">
+      <li>2-year AI lead</li>
+      <li>Enterprise locked</li>
+      <li>Network effects</li>
+    </ul>
+  </div>
+  <div style="background: var(--white); padding: 0.8rem; border-radius: 8px; box-shadow: 0 5px 15px rgba(0,0,0,0.08); border-top: 3px solid var(--urgent-red);">
+    <strong style="color: var(--urgent-red); font-size: 0.95rem;">Valuation Jump</strong>
+    <ul style="margin-top: 0.3rem; font-size: 0.8rem; padding-left: 1rem;">
+      <li>Next: €100M+</li>
+      <li>Strategics circling</li>
+      <li>M&A starting</li>
+    </ul>
+  </div>
+  <div style="background: var(--white); padding: 0.8rem; border-radius: 8px; box-shadow: 0 5px 15px rgba(0,0,0,0.08); border-top: 3px solid var(--urgent-red);">
+    <strong style="color: var(--urgent-red); font-size: 0.95rem;">Category Win</strong>
+    <ul style="margin-top: 0.3rem; font-size: 0.8rem; padding-left: 1rem;">
+      <li>Winner undefined</li>
+      <li>18 months left</li>
+      <li>Last entry</li>
+    </ul>
+  </div>
+</div>
+
+<div class="key-point" style="font-size: 1rem; margin-top: 1rem;">
+<strong>The window is 90 days. Then it's over.</strong>
+</div>
+
+</div>
+
+---
+
+<div class="slide">
+
+<h2>Call to Action</h2>
+
+<h3><strong>Join Us in Building the Future</strong></h3>
+
+<div class="milestone">
+  <span class="milestone-time">1. Deep-dive</span>
+  <span class="milestone-goal">With founders</span>
+</div>
+<div class="milestone">
+  <span class="milestone-time">2. Customer calls</span>
+  <span class="milestone-goal">Reference available</span>
+</div>
+<div class="milestone">
+  <span class="milestone-time">3. Tech diligence</span>
+  <span class="milestone-goal">Welcome</span>
+</div>
+<div class="milestone">
+  <span class="milestone-time">4. Term sheet</span>
+  <span class="milestone-goal">In 2 weeks</span>
+</div>
+
+<div style="text-align: center; margin: 2rem 0;">
+  <p><strong>Contact:</strong></p>
+  <p>Morten Vinther, CEO: morten@omnigaze.com</p>
+  <p>Investment materials: investors@omnigaze.com</p>
+  <p>Schedule demo: calendly.com/omnigaze</p>
+</div>
+
+<div class="investment-box">
+  <div style="font-size: 1.3rem; font-weight: 700; font-style: italic;">
+    "In 5 years, every enterprise will run on AI infrastructure.<br>
+    We're building it today."
+  </div>
+</div>
+
+</div>

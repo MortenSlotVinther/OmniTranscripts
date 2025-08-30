@@ -1,0 +1,911 @@
+/* OmniGaze Lead to Cash Operational Pipeline - Professional CSS */
+
+:root {
+    /* Corporate Colors */
+    --corp-blue: #003d7a;
+    --corp-light-blue: #0066cc;
+    --corp-teal: #00a3a3;
+    --corp-green: #00a652;
+    --corp-orange: #ff6900;
+    --corp-red: #dc3545;
+    --corp-gray: #6c757d;
+    --corp-dark: #1a1a2e;
+    --corp-light: #f8f9fa;
+    
+    /* Process Stage Colors */
+    --stage-1: #0066cc;
+    --stage-2: #00a3a3;
+    --stage-3: #7c4dff;
+    --stage-4: #ff6900;
+    --stage-5: #00a652;
+    --stage-6: #ffc107;
+    --stage-7: #28a745;
+    --stage-8: #17a2b8;
+    --stage-9: #6610f2;
+    
+    /* Backgrounds */
+    --bg-primary: #ffffff;
+    --bg-secondary: #f8f9fa;
+    --bg-dark: #212529;
+    --bg-card: #ffffff;
+    
+    /* Shadows */
+    --shadow-sm: 0 2px 4px rgba(0,0,0,0.08);
+    --shadow-md: 0 4px 8px rgba(0,0,0,0.12);
+    --shadow-lg: 0 8px 16px rgba(0,0,0,0.16);
+    --shadow-xl: 0 12px 24px rgba(0,0,0,0.20);
+}
+
+/* Base Styles */
+.slide {
+    font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif !important;
+    background: var(--bg-secondary) !important;
+    color: var(--corp-dark) !important;
+    padding: 2rem !important;
+    line-height: 1.6 !important;
+}
+
+h1 {
+    color: var(--corp-blue) !important;
+    font-size: 2.5rem !important;
+    font-weight: 700 !important;
+    margin-bottom: 1.5rem !important;
+    border-bottom: 3px solid var(--corp-blue);
+    padding-bottom: 0.5rem;
+}
+
+h2 {
+    color: var(--corp-dark) !important;
+    font-size: 1.8rem !important;
+    font-weight: 600 !important;
+    margin-bottom: 1rem !important;
+}
+
+h3 {
+    color: var(--corp-blue) !important;
+    font-size: 1.3rem !important;
+    font-weight: 600 !important;
+    margin-bottom: 0.8rem !important;
+}
+
+/* Pipeline Header */
+.pipeline-header {
+    text-align: center;
+    padding: 2rem;
+    background: linear-gradient(135deg, var(--corp-blue) 0%, var(--corp-light-blue) 100%);
+    color: white;
+    border-radius: 10px;
+    margin-bottom: 2rem;
+}
+
+.pipeline-header h1 {
+    color: white !important;
+    border: none;
+    margin-bottom: 0.5rem !important;
+}
+
+.subtitle {
+    font-size: 1.2rem;
+    opacity: 0.95;
+    font-weight: 300;
+}
+
+/* Pipeline Stages Overview */
+.pipeline-stages {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    background: white;
+    border-radius: 10px;
+    box-shadow: var(--shadow-md);
+    overflow-x: auto;
+    gap: 1rem;
+    margin-bottom: 2rem;
+}
+
+.stage-card {
+    flex: 1;
+    min-width: 120px;
+    text-align: center;
+    padding: 1rem;
+    background: var(--bg-secondary);
+    border-radius: 8px;
+    border: 2px solid transparent;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+
+.stage-card:hover {
+    transform: translateY(-3px);
+    box-shadow: var(--shadow-lg);
+    border-color: var(--corp-blue);
+}
+
+.stage-card.active {
+    background: var(--corp-blue);
+    color: white;
+}
+
+.stage-icon {
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 0.5rem;
+}
+
+.stage-card h3 {
+    font-size: 0.9rem !important;
+    margin-bottom: 0.3rem !important;
+}
+
+.stage-card p {
+    font-size: 0.8rem;
+    color: var(--corp-gray);
+    margin: 0;
+}
+
+.stage-card.active p {
+    color: rgba(255, 255, 255, 0.9);
+}
+
+/* Process Detail Sections */
+.process-detail {
+    background: white;
+    border-radius: 10px;
+    padding: 2rem;
+    margin-bottom: 2rem;
+    box-shadow: var(--shadow-md);
+}
+
+.process-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 2rem;
+    padding-bottom: 1rem;
+    border-bottom: 2px solid var(--bg-secondary);
+}
+
+.sla-badge {
+    background: var(--corp-green);
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+    font-size: 0.9rem;
+    font-weight: 600;
+}
+
+/* Process Grid */
+.process-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1.5rem;
+}
+
+.process-box {
+    background: var(--bg-secondary);
+    padding: 1.5rem;
+    border-radius: 8px;
+    border-left: 4px solid var(--corp-blue);
+}
+
+.process-box h3 {
+    color: var(--corp-dark) !important;
+    margin-bottom: 1rem !important;
+}
+
+/* Task Lists */
+.task-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.task-list li {
+    padding: 0.5rem 0;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+    font-size: 0.95rem;
+}
+
+.task-list li:last-child {
+    border-bottom: none;
+}
+
+/* Qualification Matrix */
+.qualification-matrix {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+.qual-section {
+    background: var(--bg-secondary);
+    padding: 1.5rem;
+    border-radius: 8px;
+    border-top: 3px solid var(--corp-teal);
+}
+
+.qual-criteria {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.criterion {
+    padding: 0.5rem;
+    background: white;
+    border-radius: 4px;
+    font-size: 0.9rem;
+    border-left: 3px solid var(--corp-green);
+}
+
+/* Action Items */
+.action-items {
+    margin-top: 2rem;
+}
+
+.action-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1rem;
+    margin-top: 1rem;
+}
+
+.action {
+    padding: 1rem;
+    background: linear-gradient(135deg, var(--bg-secondary) 0%, white 100%);
+    border-radius: 8px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    font-size: 0.95rem;
+    transition: all 0.3s ease;
+}
+
+.action:hover {
+    transform: translateX(5px);
+    box-shadow: var(--shadow-md);
+}
+
+/* Discovery Framework */
+.discovery-framework {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+.discovery-phase {
+    background: white;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    padding: 1.5rem;
+    box-shadow: var(--shadow-sm);
+}
+
+.discovery-phase h3 {
+    color: var(--corp-blue) !important;
+    border-bottom: 2px solid var(--bg-secondary);
+    padding-bottom: 0.5rem;
+    margin-bottom: 1rem !important;
+}
+
+/* Deliverables Section */
+.deliverables-section {
+    margin-top: 2rem;
+    padding-top: 2rem;
+    border-top: 2px solid var(--bg-secondary);
+}
+
+.deliverable-cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 1rem;
+    margin-top: 1rem;
+}
+
+.deliverable {
+    padding: 1rem;
+    background: var(--corp-blue);
+    color: white;
+    border-radius: 8px;
+    text-align: center;
+    font-weight: 600;
+    transition: all 0.3s ease;
+}
+
+.deliverable:hover {
+    transform: scale(1.05);
+    box-shadow: var(--shadow-lg);
+}
+
+/* Solution Components */
+.solution-components {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+.component-card {
+    background: white;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    padding: 1.5rem;
+    border-top: 3px solid var(--stage-3);
+    transition: all 0.3s ease;
+}
+
+.component-card:hover {
+    box-shadow: var(--shadow-lg);
+    transform: translateY(-3px);
+}
+
+.config-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.config-list li {
+    padding: 0.4rem 0;
+    font-size: 0.9rem;
+    color: var(--corp-dark);
+}
+
+/* POC Timeline */
+.poc-timeline {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1rem;
+    padding: 1rem;
+    background: var(--bg-secondary);
+    border-radius: 8px;
+}
+
+.poc-step {
+    flex: 1;
+    text-align: center;
+    padding: 0.5rem;
+    border-right: 2px solid white;
+}
+
+.poc-step:last-child {
+    border-right: none;
+}
+
+/* Proposal Sections */
+.proposal-sections {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+.proposal-component {
+    background: var(--bg-secondary);
+    padding: 1.5rem;
+    border-radius: 8px;
+    border-left: 4px solid var(--stage-4);
+}
+
+.component-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.component-list li {
+    padding: 0.4rem 0;
+    font-size: 0.9rem;
+    position: relative;
+    padding-left: 1.5rem;
+}
+
+.component-list li::before {
+    content: '•';
+    position: absolute;
+    left: 0;
+    color: var(--stage-4);
+    font-weight: bold;
+}
+
+/* Pricing Models */
+.pricing-models {
+    margin-top: 2rem;
+}
+
+.pricing-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 1rem;
+    margin-top: 1rem;
+}
+
+.pricing-option {
+    padding: 1rem;
+    background: white;
+    border: 2px solid var(--corp-blue);
+    border-radius: 8px;
+    text-align: center;
+    transition: all 0.3s ease;
+}
+
+.pricing-option:hover {
+    background: var(--corp-blue);
+    color: white;
+    transform: scale(1.05);
+}
+
+.pricing-option strong {
+    display: block;
+    margin-bottom: 0.5rem;
+}
+
+/* Negotiation Tracks */
+.negotiation-tracks {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+.track-card {
+    background: white;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    padding: 1.5rem;
+    border-top: 3px solid var(--stage-6);
+}
+
+.track-items {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    margin-top: 1rem;
+}
+
+.item {
+    padding: 0.5rem;
+    background: var(--bg-secondary);
+    border-radius: 4px;
+    font-size: 0.9rem;
+}
+
+/* Approval Matrix */
+.approval-matrix {
+    margin-top: 2rem;
+}
+
+.approval-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 1rem;
+}
+
+.approval-table th {
+    background: var(--corp-blue);
+    color: white;
+    padding: 0.8rem;
+    text-align: left;
+}
+
+.approval-table td {
+    padding: 0.8rem;
+    border-bottom: 1px solid var(--bg-secondary);
+}
+
+.approval-table tr:hover {
+    background: var(--bg-secondary);
+}
+
+/* Closure Checklist */
+.closure-checklist {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+.checklist-section {
+    background: var(--bg-secondary);
+    padding: 1.5rem;
+    border-radius: 8px;
+}
+
+.check-items {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.check-items li {
+    padding: 0.5rem 0;
+    font-size: 0.9rem;
+}
+
+/* Handoff Process */
+.handoff-process {
+    margin-top: 2rem;
+    padding-top: 2rem;
+    border-top: 2px solid var(--bg-secondary);
+}
+
+.handoff-items {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 1rem;
+    margin-top: 1rem;
+}
+
+.handoff-doc {
+    padding: 1rem;
+    background: linear-gradient(135deg, var(--stage-7) 0%, var(--stage-8) 100%);
+    color: white;
+    border-radius: 8px;
+    text-align: center;
+    font-weight: 600;
+}
+
+/* Implementation Phases */
+.implementation-phases {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+.phase-card {
+    background: white;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    padding: 1.5rem;
+    border-top: 3px solid var(--stage-8);
+    transition: all 0.3s ease;
+}
+
+.phase-card:hover {
+    box-shadow: var(--shadow-lg);
+    transform: translateY(-3px);
+}
+
+.phase-tasks {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.phase-tasks li {
+    padding: 0.4rem 0;
+    font-size: 0.9rem;
+    color: var(--corp-dark);
+}
+
+/* Training Plan */
+.training-plan {
+    margin-top: 2rem;
+    padding-top: 2rem;
+    border-top: 2px solid var(--bg-secondary);
+}
+
+.training-tracks {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1rem;
+    margin-top: 1rem;
+}
+
+.training-item {
+    padding: 1rem;
+    background: var(--bg-secondary);
+    border-radius: 8px;
+    border-left: 3px solid var(--corp-green);
+    font-size: 0.95rem;
+}
+
+/* Revenue Process */
+.revenue-process {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+.revenue-step {
+    background: var(--bg-secondary);
+    padding: 1.5rem;
+    border-radius: 8px;
+    border-top: 3px solid var(--stage-9);
+}
+
+.revenue-tasks {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.revenue-tasks li {
+    padding: 0.4rem 0;
+    font-size: 0.9rem;
+}
+
+/* Renewal Process */
+.renewal-process {
+    margin-top: 2rem;
+    padding-top: 2rem;
+    border-top: 2px solid var(--bg-secondary);
+}
+
+.renewal-timeline {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1rem;
+    padding: 1rem;
+    background: linear-gradient(90deg, var(--bg-secondary) 0%, white 100%);
+    border-radius: 8px;
+}
+
+.renewal-milestone {
+    flex: 1;
+    text-align: center;
+    padding: 0.5rem;
+    font-size: 0.9rem;
+    border-right: 2px solid var(--corp-blue);
+}
+
+.renewal-milestone:last-child {
+    border-right: none;
+}
+
+/* KPI Dashboard */
+.kpi-dashboard {
+    background: white;
+    border-radius: 10px;
+    padding: 2rem;
+    margin-bottom: 2rem;
+    box-shadow: var(--shadow-md);
+}
+
+.kpi-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 1.5rem;
+    margin-top: 1.5rem;
+}
+
+.kpi-box {
+    background: var(--bg-secondary);
+    padding: 1.5rem;
+    border-radius: 8px;
+    border-left: 4px solid var(--corp-green);
+}
+
+.kpi-box h3 {
+    color: var(--corp-dark) !important;
+    font-size: 1.1rem !important;
+    margin-bottom: 1rem !important;
+}
+
+.kpi-item {
+    padding: 0.3rem 0;
+    font-size: 0.9rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.kpi-item strong {
+    color: var(--corp-green);
+    font-size: 1.1rem;
+}
+
+/* Systems Architecture */
+.systems-architecture {
+    background: white;
+    border-radius: 10px;
+    padding: 2rem;
+    margin-bottom: 2rem;
+    box-shadow: var(--shadow-md);
+}
+
+.system-categories {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1.5rem;
+    margin-top: 1.5rem;
+}
+
+.system-group {
+    background: var(--bg-secondary);
+    padding: 1.5rem;
+    border-radius: 8px;
+}
+
+.system-group h3 {
+    color: var(--corp-blue) !important;
+    margin-bottom: 1rem !important;
+    border-bottom: 2px solid white;
+    padding-bottom: 0.5rem;
+}
+
+.tool-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.tool {
+    padding: 0.5rem;
+    background: white;
+    border-radius: 4px;
+    font-size: 0.9rem;
+    transition: all 0.3s ease;
+}
+
+.tool:hover {
+    background: var(--corp-blue);
+    color: white;
+    transform: translateX(5px);
+}
+
+/* Optimization Areas */
+.optimization-areas {
+    background: white;
+    border-radius: 10px;
+    padding: 2rem;
+    margin-bottom: 2rem;
+    box-shadow: var(--shadow-md);
+}
+
+.improvement-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1.5rem;
+    margin-top: 1.5rem;
+}
+
+.improvement-card {
+    background: var(--bg-secondary);
+    padding: 1.5rem;
+    border-radius: 8px;
+    border-top: 3px solid var(--corp-orange);
+}
+
+.improvement-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.improvement-list li {
+    padding: 0.5rem 0;
+    font-size: 0.9rem;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.improvement-list li:last-child {
+    border-bottom: none;
+}
+
+/* Summary Section */
+.summary-section {
+    background: linear-gradient(135deg, var(--corp-blue) 0%, var(--corp-light-blue) 100%);
+    color: white;
+    border-radius: 10px;
+    padding: 2rem;
+    margin-bottom: 2rem;
+}
+
+.summary-section h2 {
+    color: white !important;
+    margin-bottom: 1.5rem !important;
+}
+
+.summary-points {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin-bottom: 2rem;
+}
+
+.summary-item {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    padding: 1rem;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 8px;
+    backdrop-filter: blur(10px);
+}
+
+.summary-item .icon {
+    font-size: 1.5rem;
+}
+
+.summary-item strong {
+    color: white;
+}
+
+/* Next Steps */
+.next-steps {
+    background: rgba(255, 255, 255, 0.95);
+    color: var(--corp-dark);
+    padding: 1.5rem;
+    border-radius: 8px;
+    margin-top: 2rem;
+}
+
+.next-steps h3 {
+    color: var(--corp-blue) !important;
+    margin-bottom: 1rem !important;
+}
+
+.priority-list {
+    margin: 0;
+    padding-left: 1.5rem;
+}
+
+.priority-list li {
+    padding: 0.3rem 0;
+    font-size: 0.95rem;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .pipeline-stages {
+        flex-direction: column;
+    }
+    
+    .stage-card {
+        width: 100%;
+    }
+    
+    .process-grid,
+    .qualification-matrix,
+    .discovery-framework,
+    .solution-components,
+    .proposal-sections,
+    .negotiation-tracks,
+    .implementation-phases,
+    .revenue-process,
+    .kpi-grid,
+    .system-categories,
+    .improvement-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .renewal-timeline {
+        flex-direction: column;
+    }
+    
+    .renewal-milestone {
+        border-right: none;
+        border-bottom: 2px solid var(--corp-blue);
+        padding: 0.5rem;
+    }
+    
+    .renewal-milestone:last-child {
+        border-bottom: none;
+    }
+}
+
+/* Print Styles */
+@media print {
+    .slide {
+        background: white !important;
+    }
+    
+    .process-detail,
+    .kpi-dashboard,
+    .systems-architecture,
+    .optimization-areas {
+        box-shadow: none !important;
+        border: 1px solid #ddd !important;
+    }
+    
+    .pipeline-header,
+    .summary-section {
+        background: none !important;
+        color: black !important;
+        border: 2px solid black !important;
+    }
+}
