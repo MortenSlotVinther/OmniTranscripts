@@ -34,7 +34,7 @@ Cloud Layer         = AWS, Azure (€200B market)
 ```
 
 **Why Infrastructure Wins:**
-- **Cursor/Lovable** reached €100M ARR within months with thin shell on top of LLMs
+- **Cursor/Lovable** valued at $10B+ within months with thin shell on top of LLMs
 - **OmniGaze** provides the full infrastructure they can't build
 - **Every AI application needs our foundation to scale**
 
@@ -46,8 +46,7 @@ Cloud Layer         = AWS, Azure (€200B market)
 
 ## Slide 3: The Category-Defining Solution
 
-### **We Built OmniGaze Using Our Own AI**
-### **Now Both Transform Enterprises Together**
+### **OmniGaze: The Enterprise AI Infrastructure Platform**
 
 **The Integrated Platform:**
 ```
@@ -91,8 +90,9 @@ Cloud Layer         = AWS, Azure (€200B market)
 
 **Customer Economics:**
 - **Net Revenue Retention**: 145% (expanding within accounts)
-- **Gross Margin**: 85%
+- **Gross Margin**: 75% (industry-leading for enterprise software)
 - **Zero churn** in 2 years
+- **Stickiness**: Once integrated, mission-critical infrastructure
 
 **These aren't pilots. These are transformations.**
 
@@ -212,7 +212,7 @@ Efficiency Factor: 30x with AI-first techniques
 
 ## Slide 8: Why Giants Will Acquire, Not Build
 
-### **Microsoft/OpenAI/Google Need Us More Than We Need Them**
+### **AI Companies Need Enterprise Infrastructure NOW**
 
 **Why They Won't Build This Themselves:**
 
@@ -222,19 +222,21 @@ Efficiency Factor: 30x with AI-first techniques
 - **Legacy integration nightmare** - Thousands of enterprise systems
 - **Trust deficit** - Enterprises won't beta-test on production
 
-**Acquisition Logic (Their Perspective):**
-- **Instant enterprise penetration** vs years of selling
-- **Proven infrastructure** vs risky development
-- **Blue-chip references** vs cold starts
-- **€50-200M acquisition** vs €1B+ build cost
+**Strategic Acquisition Logic:**
+
+**For AI Platform Companies (Anthropic, OpenAI, Microsoft):**
+- **Anthropic**: Building industry verticals (Finance, Healthcare) - needs our infrastructure
+- **OpenAI**: Enterprise push requires deployment infrastructure
+- **Microsoft**: Copilot ecosystem needs enterprise IT visibility
+- **Result**: Instant enterprise-grade deployment capability
 
 **The Competitive Dynamic:**
-*If Microsoft doesn't acquire OmniGaze, another giant will - creating a strategic disadvantage.*
+*Anthropic's industry-specific strategy + OmniGaze infrastructure = Dominant enterprise AI platform*
 
 **Multiple Exit Paths:**
-1. **Strategic Acquisition** (Microsoft, OpenAI, Google, AWS)
-2. **Platform Play** (ServiceNow, SAP, Salesforce)
-3. **Private Equity Roll-up** (Vista, Thoma Bravo)
+1. **AI Platforms** (Anthropic, OpenAI, Microsoft, Google)
+2. **Enterprise Software** (ServiceNow, SAP, Salesforce)
+3. **Private Equity** (Vista, Thoma Bravo)
 4. **IPO** (€100M ARR → €1B+ valuation)
 
 **Recent Comparables:**
@@ -315,9 +317,11 @@ Year 3:   Strategic partnership discussions
 ### **Following the Cursor/Lovable Trajectory at Infrastructure Scale**
 
 **AI-Era Comparables:**
-- **Cursor**: €0 to €100M ARR in 18 months
-- **Lovable**: €0 to €50M ARR in 12 months
+- **Cursor**: Valued at $10B+ within months
+- **Lovable**: Similar trajectory, massive valuations
 - **OmniGaze**: Infrastructure layer = 10x opportunity
+
+*Note: All financial projections are forward-looking statements subject to risks and uncertainties*
 
 **Our Trajectory:**
 ```
@@ -339,7 +343,7 @@ Year 5:      €250M ARR (100 people)
 CAC:          €10K (self-service) to €50K (enterprise)
 LTV:          €500K+ (3-year contracts, 145% NRR)
 LTV/CAC:      10:1 minimum
-Gross Margin: 85% and improving
+Gross Margin: 75% (industry-leading)
 ```
 
 **"Not traditional SaaS. AI-accelerated growth."**
@@ -352,17 +356,17 @@ Gross Margin: 85% and improving
 
 **The Regulatory Acceleration:**
 
-**NIS2 Directive** (July 2025 deadline)
+**NIS2 Directive** (Implementation ongoing)
 - 50,000+ EU companies affected
 - €10M or 2% revenue fines
 - Requires complete IT asset visibility
 
-**DORA Regulation** (January 2025)
+**DORA Regulation** (Active compliance required)
 - Financial services focus
 - Operational resilience mandatory
 - Real-time monitoring required
 
-**AI Act** (2025-2026 rollout)
+**AI Act** (Phased implementation)
 - AI system governance
 - Risk assessment obligations
 - Transparency requirements
@@ -388,27 +392,31 @@ Gross Margin: 85% and improving
 
 **The Four-Phase Strategy:**
 
-**Phase 1: Enterprise Foundation** (Current - Q4 2024)
+**Phase 1: Enterprise Foundation** (Current & Ongoing)
 - **Focus**: Fortune 500 direct sales
 - **ACV**: €100K-500K
 - **Target**: 20 lighthouse customers
-- **Status**: 7 secured, 13 in pipeline
+- **Status**: 7 secured, pipeline building
 
-**Phase 2: Product-Led Growth** (Q1-Q2 2025)
-- **Launch**: Self-service platform
-- **Entry**: €10K/year SMB tier
+**Phase 1.5: Expand Capabilities** (With Funding)
+- **Build**: Enhanced AI orchestration
+- **Scale**: Platform infrastructure
+- **Prepare**: For mass adoption
+
+**Phase 2: Self-Service SMB** (2026)
+- **Launch**: Online platform
+- **Entry**: €10K/year tier
 - **Volume**: 10→50 customers/month
 - **Automation**: AI-powered onboarding
 
-**Phase 3: Channel Acceleration** (Q3-Q4 2025)
-- **Partners**: Boutique consultancies, compliance firms
+**Phase 3: Channel Acceleration** (Q3 2026)
+- **Partners**: Niche consultancies, compliance firms
 - **Leverage**: 1:10 partner multiplier
 - **Scale**: 50→200 customers/month
-- **Economics**: 30% channel margin
 
-**Phase 4: Global Domination** (2026+)
+**Phase 4: Global Channels** (2027)
 - **Big 4**: Deloitte, PwC, EY, KPMG
-- **System Integrators**: Accenture, Cap Gemini
+- **System Integrators**: Major partners
 - **Scale**: 200→1000+ customers/month
 - **Geography**: US, Middle East, APAC
 
@@ -460,8 +468,8 @@ Data Layer:
 
 **Investment Allocation:**
 
-**40% - AI Platform Evolution (€2M)**
-- Scale Harmonoid from 10x to 100x productivity
+**40% - OmniGaze AI Platform Evolution (€2M)**
+- Scale AI engine from 10x to 100x productivity
 - Advanced autonomous capabilities
 - Multi-model orchestration (GPT, Claude, Llama, proprietary)
 
@@ -471,7 +479,7 @@ Data Layer:
 - Partner program development
 
 **20% - Product & Engineering (€1M)**
-- Self-service platform (Q1 2025)
+- Self-service platform launch
 - API marketplace
 - Compliance module library
 
@@ -518,11 +526,11 @@ Data Layer:
 - Pro-rata rights
 - No liquidation preference
 
-**The Clock Is Ticking:**
-- **Self-service launches** Q1 2025
-- **NIS2 deadline** creates massive demand
-- **Next round** at 10x this valuation
-- **Strategic interest** already building
+**The Investment Window:**
+- **Self-service platform** launching soon
+- **Regulatory compliance** driving demand
+- **Next round** at significantly higher valuation
+- **Market consolidation** accelerating
 
 **"In 18 months, you'll either be in at €33M or watching at €500M."**
 
@@ -552,9 +560,9 @@ Data Layer:
 ✓ 30x development efficiency
 ✓ Zero failures in production
 
-**Exit Certainty**
-✓ Strategic buyers circling
-✓ IPO path clear
+**Exit Optionality**
+✓ Strategic acquirers identified (Anthropic, Microsoft, ServiceNow)
+✓ IPO path at €100M ARR
 ✓ Multiple 10x comparables
 
 **The Simple Truth:**
@@ -572,11 +580,11 @@ The question isn't if, but how fast.
 
 ### **Join the Infrastructure Revolution**
 
-**Immediate Actions:**
-1. **Founder Deep Dive** (2 hours, this week)
-2. **Customer CEO Calls** (Stark, GN, Wrist ready)
-3. **Technical Due Diligence** (welcome it)
-4. **Term Sheet** (14 days to close)
+**Next Steps:**
+1. **Founder Introduction** - Deep dive session
+2. **Customer References** - Direct CEO access
+3. **Technical Due Diligence** - Full transparency
+4. **Term Sheet Discussion** - Move at your pace
 
 **Direct Contact:**
 **Sofie Levi Pourhadi**
@@ -596,8 +604,6 @@ Partner & Head of Sales
 *Tomorrow might be too late."*
 
 **Building the Operating System for Enterprises.**
-**From €5M to €5B.**
-**From Foundation to Future.**
 
 **Welcome to OmniGaze.**
 
@@ -653,7 +659,7 @@ Expansion:       5 departments, 3 countries
 
 ### A3: Technology Architecture
 
-**The OmniGaze + Harmonoid Stack**
+**The OmniGaze Platform Stack**
 
 ```
 ┌──────────────────────────────────────┐
@@ -662,7 +668,7 @@ Expansion:       5 departments, 3 countries
 │  • Compliance Modules                │
 │  • Reporting Engines                 │
 ├──────────────────────────────────────┤
-│     Harmonoid AI Layer               │
+│     AI Orchestration Layer           │
 │  • Multi-Model Orchestration         │
 │  • Agent Management                  │
 │  • Learning Systems                  │
@@ -749,30 +755,38 @@ Year 5 (2029):
 - Efficiency: 20% margin
 ```
 
-### A6: Middle East & Global Expansion
+### A6: Middle East Opportunity - The AI Leapfrog Strategy
 
-**The Dubai/Saudi Opportunity**
+**Dubai & Saudi Arabia: From Oil to AI Leadership**
 
-**Vision 2030 Alignment:**
-- Saudi Arabia investing $100B in AI
-- Dubai aims to be global AI hub
-- Need trusted infrastructure partner
+**The Vision & Need:**
+- **Vision 2030**: Saudi investing $1 trillion in transformation
+- **Dubai 2030**: Becoming global AI & fintech hub
+- **The Gap**: Need trusted infrastructure to leapfrog US/EU
 
-**OmniGaze Advantage:**
-- Data sovereignty (local deployment)
-- Instant infrastructure (48 hours)
-- Government-ready (compliance built-in)
+**Why OmniGaze Wins in GCC:**
+- **Sovereignty First**: Data stays local, control remains national
+- **Speed**: 48-hour deployment vs years of development
+- **Trust**: European company, neutral partner
+- **Scale**: From government to startup coverage
 
-**Execution Plan:**
-- Q2 2025: Dubai office
-- Q3 2025: Saudi partnership
-- Q4 2025: First government contracts
-- 2026: €20M Middle East revenue
+**The Investor Opportunity:**
+*GCC doesn't just want to be customers - they want to invest*
+- Sovereign wealth funds seeking AI infrastructure plays
+- Strategic investment + customer lock-in
+- Regional expansion rights potential
 
-**Strategic Value:**
-- Positions for global leadership
-- Creates US expansion beachhead
-- Validates government market
+**Market Potential:**
+- €100M+ addressable in 24 months
+- Government mandates coming (like NIS2 in EU)
+- First-mover advantage critical
+
+**Strategic Importance:**
+- Validates global expansion capability
+- Creates second growth engine
+- Potential for regional acquisition/IPO
+
+**"To win the AI race, GCC needs OmniGaze as the foundation."**
 
 ### A7: Risk Mitigation
 

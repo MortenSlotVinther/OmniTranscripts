@@ -109,6 +109,51 @@ The team conducted a detailed review of the Series A pitch deck, identifying key
 - Remove: "Zero critical failures across all deployments" (snapshot metric)
 - Keep: 400,000 lines of production code
 
+## Additional Decisions from Extended Discussion
+
+### 11. Financial Projections and Disclaimers
+- **Add:** Disclaimers for all financial projections
+- **Remove:** Specific valuation promises ("From €5M to €50B")
+- **Adjust:** Gross margin claims (85% unrealistic for software)
+- **Update:** Cursor/Lovable valuations to $10B+ (recent offers)
+
+### 12. Go-to-Market Timeline Updates
+- **Remove:** All specific dates (Q1 2025, July 2025)
+- **Structure:** 
+  - Phase 1: Current/Ongoing (Enterprise Foundation)
+  - Phase 1.5: Expand Capabilities (needs funding)
+  - Phase 2: 2026 (Self-Service SMB)
+  - Phase 3: Q3 2026 (Channel Acceleration)
+  - Phase 4: 2027 (Global Domination)
+
+### 13. Exit Strategy Refinements
+- **Add:** Anthropic as major contender (building industry verticals)
+- **Remove:** "Strategic buyers already circling" claim
+- **Focus:** Specific acquirer rationales (why each would buy us)
+- **Include:** IPO option with realistic timeline
+
+### 14. Stickiness and Mission-Critical Positioning
+- **Emphasize:** Why customers can't leave once integrated
+- **Compare:** Consultant costs (KPMG/McKinsey billions) vs instant OmniGaze insights
+- **Position:** As mission-critical infrastructure, not optional tool
+
+### 15. Middle East/Dubai Opportunity
+- **Create:** Appendix slide for Middle East expansion
+- **Focus:** Vision 2030 programs (Saudi Arabia)
+- **Position:** As investors/partners, not just customers
+- **Emphasize:** Data sovereignty and local requirements
+- **Message:** "To lead in AI, GCC needs OmniGaze as foundation"
+
+### 16. Use of Funds Clarifications
+- **Change:** "Harmonoid" to "OmniGaze AI" throughout
+- **Focus:** Infrastructure investment vs development
+- **Remove:** Specific quarterly targets
+
+### 17. Call to Action Updates
+- **Remove:** "Immediate actions" language
+- **Focus:** Founder deep dive, due diligence, term sheet timeline
+- **Simplify:** Contact information and next steps
+
 ## Action Items
 1. Create new Palantir comparison slide
 2. Develop ecosystem/partnership visualization
@@ -117,6 +162,14 @@ The team conducted a detailed review of the Series A pitch deck, identifying key
 5. Remove all negative competitor references
 6. Add credible market sources
 7. Create consistent iceberg/pyramid visualizations
+8. Add financial disclaimers to all projections
+9. Remove all specific dates from go-to-market phases
+10. Update exit strategy with Anthropic and rationales
+11. Create Middle East/Dubai appendix slide
+12. Add stickiness/mission-critical messaging
+13. Update use of funds with clearer terminology
+14. Simplify call to action slide
+15. Add customer logos to main deck
 
 ## Key Insights
 - Investors need simpler, clearer messaging
@@ -124,9 +177,14 @@ The team conducted a detailed review of the Series A pitch deck, identifying key
 - Focus on proven traction and clear differentiation
 - Position as infrastructure enabler, not competitor
 - Emphasize security and compliance as differentiators
+- Stickiness and mission-critical nature are key selling points
+- Middle East represents major expansion opportunity
+- Anthropic could be strategic acquirer due to industry vertical focus
 
 ## Next Steps
 - Revise pitch deck with all changes
 - Create visual prompts for design team
 - Review with advisors for final feedback
 - Prepare for investor meetings with refined narrative
+- Develop Middle East expansion strategy
+- Create partnership materials for ecosystem players
