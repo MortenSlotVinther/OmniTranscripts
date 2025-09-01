@@ -1,16 +1,14 @@
 # OmniGaze Series A Pitch Deck - Final Version
-## €5M for 15% Equity | From Code to Company
+## €5M for 15% Equity | Building the Operating System for Enterprises
 
 ---
 
 ## Slide 1: Title Slide
 
-### **OmniGaze + Harmonoid AI**
-**From Code to Company**
+### **OmniGaze**
+**Building the Operating System for Enterprises**
 
-*The AI Infrastructure Platform Building Enterprise Transformation*
-
-**Not Snippets. Transformation.**
+*The AI Infrastructure Platform for Enterprise Transformation*
 
 Series A: €5M for 15% equity
 Contact: Sofie Pourhadi - sales@omnigaze.com
@@ -36,7 +34,7 @@ Cloud Layer         = AWS, Azure (€200B market)
 ```
 
 **Why Infrastructure Wins:**
-- **Cursor/Lovable** reached €100M ARR with simple LLM overlays
+- **Cursor/Lovable** reached €100M ARR within months with thin shell on top of LLMs
 - **OmniGaze** provides the full infrastructure they can't build
 - **Every AI application needs our foundation to scale**
 
@@ -56,19 +54,17 @@ Cloud Layer         = AWS, Azure (€200B market)
 ┌─────────────────────────────────────────┐
 │  BUSINESS TRANSFORMATION                │ ← What CEOs buy
 ├─────────────────────────────────────────┤
-│  HARMONOID AI ENGINE                    │ ← Our AI that builds
+│  AI ORCHESTRATION                       │ ← Our AI that builds
 ├─────────────────────────────────────────┤
-│  OMNIGAZE INFRASTRUCTURE                │ ← The foundation
+│  OMNIGAZE FOUNDATION                    │ ← The infrastructure
 └─────────────────────────────────────────┘
          ONE PRODUCT, INFINITE SCALE
 ```
 
-**The Chicken and Egg Solution:**
-- **OmniGaze = The Chicken** (self-sustaining infrastructure)
-- **If an "egg" (AI system) breaks**, the infrastructure produces another
-- **Self-healing, self-building, self-scaling**
-
-**"Cursor builds code. We build companies."**
+**The Iceberg Principle:**
+- **Top 10%**: What others see (code generation)
+- **Bottom 90%**: OmniGaze foundation (infrastructure, integration, observability)
+- **Result**: Complete enterprise transformation
 
 ---
 
@@ -89,7 +85,7 @@ Cloud Layer         = AWS, Azure (€200B market)
 - **Stickiness**: Expanded from 1 to 5 departments
 
 **Wrist Ship Supply** (Maritime leader)
-- **3-year contract**, chose us over Ardoq
+- **3-year contract**, chose us over Ardoq for compliance and security
 - **Impact**: 90% reduction in compliance prep
 - **Expansion**: Adding 3 more business units
 
@@ -117,12 +113,13 @@ Risk: High (untested in production)
 
 OmniGaze Reality:
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-1 developer + 1 business person + Harmonoid AI
-2.5 years × €240K/year = €600,000
+Foundation: 8+ years of development
+Commercial: 2 years with 2 people = €600,000
+AI Acceleration: Started 1 year ago (30x productivity)
 Time to market: Already deployed
 Risk: Zero (proven with enterprises)
 
-Efficiency Factor: 30x cost, 3.6x speed
+Efficiency Factor: 30x with AI-first techniques
 ```
 
 **Why Competitors Can't Copy:**
@@ -132,9 +129,9 @@ Efficiency Factor: 30x cost, 3.6x speed
 4. **We keep accelerating** - Adding 100K+ LOC/year with AI
 
 **The Moat:**
-- **400,000+ lines** of production-tested code
-- **0 critical failures** across all deployments
-- **8+ years** of accumulated refinement
+- **400,000+ lines** of production-tested code (accumulated over 8+ years)
+- **Foundation proven** in production environments
+- **AI acceleration** since last year (30x development speed)
 - **Never disrupts** - We observe and advise, customers control
 
 **"From €600K to €18M of product value."**
@@ -149,7 +146,7 @@ Efficiency Factor: 30x cost, 3.6x speed
 
 | **Category** | **Players** | **Their Limitation** | **OmniGaze Advantage** |
 |---|---|---|---|
-| **Dev Tools** | Cursor, Lovable, Replit | Individual snippets | Enterprise scale |
+| **Dev Tools** | Cursor, Lovable, Replit | Code generation for individuals | Enterprise transformation |
 | **ITSM** | ServiceNow, BMC | Legacy, no AI core | AI-native platform |
 | **Observability** | Datadog, Dynatrace | Monitoring only | Full transformation |
 | **Data Platforms** | Snowflake, Databricks | Data layer only | Complete stack |
@@ -167,7 +164,53 @@ Efficiency Factor: 30x cost, 3.6x speed
 
 ---
 
-## Slide 7: Why Giants Will Acquire, Not Build
+## Slide 6.5: The Palantir Parallel
+
+### **Palantir for Security. OmniGaze for Enterprise IT.**
+
+**Same Pattern, Different Domain:**
+
+| **Aspect** | **Palantir** | **OmniGaze** |
+|---|---|---|
+| **Domain** | Security & Military Intelligence | Enterprise IT Infrastructure |
+| **Core Value** | Aggregate data, find patterns | Aggregate IT assets, enable transformation |
+| **Customer Base** | Governments, Defense | Fortune 500 Enterprises |
+| **Moat** | Classified data handling | Enterprise system integration |
+| **Valuation** | $50B+ market cap | Our trajectory |
+
+**Why This Matters:**
+- **Proven model**: Palantir validated the approach
+- **Different market**: No competition, pure complement
+- **Similar economics**: High-value, sticky enterprise contracts
+- **Exit validation**: Shows path to $10B+ outcome
+
+**"We're building the Palantir for enterprise IT transformation."**
+
+---
+
+## Slide 7: Current vs Future Capabilities
+
+### **What We Do NOW vs What We'll Do TOMORROW**
+
+**NOW - Foundation Layer (Proven):**
+- ✅ Complete IT asset discovery
+- ✅ Dependency mapping
+- ✅ Compliance automation
+- ✅ Operational savings (€25K/month documented)
+- ✅ 48-hour deployment
+
+**FUTURE - Transformation Layer (Need Funding):**
+- 🔮 AI-driven code generation for enterprises
+- 🔮 Business process automation
+- 🔮 Self-building applications
+- 🔮 Complete digital transformation
+
+**The Investment Opportunity:**
+*You're investing in the proven foundation AND the transformative future*
+
+---
+
+## Slide 8: Why Giants Will Acquire, Not Build
 
 ### **Microsoft/OpenAI/Google Need Us More Than We Need Them**
 
@@ -186,7 +229,7 @@ Efficiency Factor: 30x cost, 3.6x speed
 - **€50-200M acquisition** vs €1B+ build cost
 
 **The Competitive Dynamic:**
-*"If Microsoft doesn't acquire OmniGaze, Elon Musk will - and Microsoft's enterprise AI strategy dies."*
+*If Microsoft doesn't acquire OmniGaze, another giant will - creating a strategic disadvantage.*
 
 **Multiple Exit Paths:**
 1. **Strategic Acquisition** (Microsoft, OpenAI, Google, AWS)
@@ -203,7 +246,7 @@ Efficiency Factor: 30x cost, 3.6x speed
 
 ---
 
-## Slide 8: Why Haven't We Scaled Faster? By Design.
+## Slide 9: Why Haven't We Scaled Faster? By Design.
 
 ### **Year 1: Prove Infrastructure Works**
 ### **Year 2: Add AI Layer**
@@ -235,7 +278,7 @@ Efficiency Factor: 30x cost, 3.6x speed
 
 ---
 
-## Slide 9: Mission-Critical Dynamics
+## Slide 10: Mission-Critical Dynamics
 
 ### **Before Deployment: Nice to Have**
 ### **After Deployment: Can't Live Without**
@@ -267,7 +310,7 @@ Year 3:   Strategic partnership discussions
 
 ---
 
-## Slide 10: Financial Projections - AI-Era Growth
+## Slide 11: Financial Projections - AI-Era Growth
 
 ### **Following the Cursor/Lovable Trajectory at Infrastructure Scale**
 
@@ -303,7 +346,7 @@ Gross Margin: 85% and improving
 
 ---
 
-## Slide 11: Regulatory Tailwinds - Enabler, Not Enforcer
+## Slide 12: Regulatory Tailwinds - Enabler, Not Enforcer
 
 ### **Compliance Creates Urgency, We Create Solutions**
 
@@ -378,7 +421,40 @@ Gross Margin: 85% and improving
 
 ---
 
-## Slide 13: Use of Funds - The Domination Budget
+## Slide 13: Ecosystem & Partnership Strategy
+
+### **Standing on the Shoulders of Giants**
+
+**Integration Partners - We Enhance, Not Replace:**
+
+```
+Observability Layer:
+├─ Datadog, Dynatrace, New Relic
+├─ We add: Business context & dependency mapping
+
+ITSM Layer:
+├─ ServiceNow, BMC, Remedy
+├─ We add: AI transformation capabilities
+
+Security Layer:
+├─ CrowdStrike, Palo Alto, Sentinel
+├─ We add: Compliance automation
+
+Data Layer:
+├─ Snowflake, Databricks, BigQuery
+└─ We add: Operational intelligence
+```
+
+**Partnership Value:**
+- **For Partners**: Their tools become enterprise transformation enablers
+- **For Customers**: Existing investments enhanced, not replaced
+- **For OmniGaze**: Accelerated adoption through trusted ecosystems
+
+**"We're the orchestration layer that makes everything work together."**
+
+---
+
+## Slide 14: Use of Funds - The Domination Budget
 
 ### **€5M to Own Enterprise AI Infrastructure**
 
@@ -400,7 +476,7 @@ Gross Margin: 85% and improving
 - Compliance module library
 
 **10% - Brand & Category Creation (€500K)**
-- "From Code to Company" movement
+- "Building the Operating System for Enterprises" movement
 - Thought leadership campaign
 - Executive visibility program
 
@@ -416,7 +492,7 @@ Gross Margin: 85% and improving
 
 ---
 
-## Slide 14: The Ask - Last Entry Before 10x
+## Slide 15: The Ask - Last Entry Before 10x
 
 ### **€5M for 15% - The Infrastructure Investment of the Decade**
 
@@ -452,7 +528,7 @@ Gross Margin: 85% and improving
 
 ---
 
-## Slide 15: Why This Is Inevitable
+## Slide 16: Why This Is Inevitable
 
 ### **Every Force Points to OmniGaze**
 
@@ -492,7 +568,7 @@ The question isn't if, but how fast.
 
 ---
 
-## Slide 16: Contact & Next Steps
+## Slide 17: Contact & Next Steps
 
 ### **Join the Infrastructure Revolution**
 
@@ -519,9 +595,9 @@ Partner & Head of Sales
 *Today, you can still enter.*
 *Tomorrow might be too late."*
 
-**From Code to Company.**
+**Building the Operating System for Enterprises.**
 **From €5M to €5B.**
-**From Today to Tomorrow.**
+**From Foundation to Future.**
 
 **Welcome to OmniGaze.**
 
