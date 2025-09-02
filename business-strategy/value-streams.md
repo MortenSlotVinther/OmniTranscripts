@@ -172,46 +172,105 @@ Lead Generation → Qualification → Discovery → Proposal → POC → Negotia
 **Output**: Renewed/expanded contract
 **Metrics**: Net Revenue Retention, NPS
 
-## 2. Customer Success Value Stream
+## 2. Customer Success Value Stream (Cradle to Grave)
 
 ### Overview
-Ensuring customers achieve their desired outcomes with OmniGaze.
+Complete customer lifecycle management from initial contact through renewal or departure, ensuring continuous value delivery and maximizing retention. This "cradle to grave" approach ensures no customer is ever abandoned after implementation.
 
 ### Process Flow
 
 ```
-Kickoff → Technical Setup → Training → Adoption → Optimization → Expansion → Renewal
+Cradle: Lead Generation → Sale → Implementation
+    ↓
+Life: Adoption → Optimization → Expansion → Advocacy
+    ↓
+Grave: Renewal OR Offboarding → Lessons Learned
 ```
+
+### Resource Allocation
+- **John Web**: Day-to-day customer success activities
+- **Partners**: Routine check-ins and support
+- **John F.**: Technical escalations only
+- **Morten**: Strategic customer relationships only (2-3 key accounts)
 
 ### Key Stages
 
-#### Onboarding (Weeks 1-4)
+#### Stage 1: Onboarding (Weeks 1-4)
+**Owner**: John Web transitioning from POC
 - Welcome and orientation
-- Technical implementation
+- Technical implementation handoff
 - Initial discovery run
 - Basic training completion
 - First value milestone
+- **Critical**: Establish Customer Success Manager relationship
 
-#### Adoption (Months 2-3)
+#### Stage 2: Adoption (Months 2-3)
+**Owner**: Customer Success Manager (John Web or Partner)
 - Advanced feature training
 - Use case expansion
 - Process integration
 - Team enablement
 - Success metrics establishment
+- **Stickiness Focus**: Integrate into mission-critical processes
 
-#### Maturity (Months 4-12)
+#### Stage 3: Value Realization (Months 4-12)
+**Owner**: Customer Success Manager
 - Optimization recommendations
 - Best practice sharing
 - Expansion planning
-- ROI documentation
+- ROI documentation (compare to consultant costs)
 - Executive business reviews
+- **Key Metric**: Document savings vs. McKinsey/KPMG alternatives
 
-#### Growth (Year 2+)
+#### Stage 4: Expansion & Advocacy (Year 2+)
+**Owner**: Account Team with CSM
 - Additional module adoption
 - New use case development
 - Strategic partnership evolution
-- Reference and advocacy
+- Reference and advocacy programs
 - Multi-year planning
+- **Target**: 145% Net Revenue Retention
+
+#### Stage 5: Renewal or Transition
+**Owner**: CSM with Sales support
+
+**Renewal Path** (Target: 95%+):
+- Value documentation
+- Contract negotiation
+- Success story development
+- Expansion opportunities
+
+**Departure Path** (Exception handling):
+- Exit interview
+- Knowledge transfer
+- Lessons learned
+- Win-back strategy
+
+### Customer Success Infrastructure
+
+#### Success Metrics
+- **Adoption Rate**: Feature usage tracking
+- **Time to Value**: Days to first business impact
+- **Health Score**: Composite engagement metric
+- **NPS**: Regular satisfaction surveys
+- **Stickiness Index**: Mission-critical integration level
+
+#### Proactive Engagement Model
+```yaml
+Touch Points:
+  Week 1: Welcome call
+  Week 4: First value check
+  Month 2: Adoption review
+  Month 3: Success planning
+  Quarterly: Business reviews
+  Annually: Strategic planning
+```
+
+#### Partner-Enabled Success
+- **Training Materials**: Created by John Web
+- **Playbooks**: Standardized engagement
+- **Escalation Matrix**: Clear handoff points
+- **Certification**: Partner CSM program
 
 ## 3. Product Development Value Stream
 

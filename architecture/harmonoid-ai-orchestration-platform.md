@@ -181,9 +181,36 @@ Team
 
 ## Use Cases
 
-### Development Automation
+### Development Automation (80/20 Rule)
+
+#### Automated Issue Resolution Pipeline
+**Target**: 80% of bugs and small features handled automatically
+
+```mermaid
+flowchart TB
+    Issue[Jira Issue] --> Enrich[AI Enrichment]
+    Enrich --> Categorize{Complexity?}
+    Categorize -->|Simple 80%| AutoFix[Auto Implementation]
+    Categorize -->|Complex 20%| Design[Human Design Review]
+    
+    AutoFix --> Test[Auto Testing]
+    Test --> Deploy[Auto Deploy]
+    
+    Design --> Implement[Guided Implementation]
+    Implement --> Review[Human Review]
+    Review --> Deploy
+```
+
+**Implementation Details**:
+- **Issue Enrichment**: AI adds logs, context, validation criteria
+- **Complexity Analysis**: Automatic categorization based on scope
+- **Auto Implementation**: AI generates fix following patterns
+- **Validation**: Automated testing with mock environments
+- **Human Touch**: Only for design decisions and architecture
+
+#### Core Automation Features
 - **Automated Code Reviews**: AI partners review PRs for best practices
-- **Bug Fixing**: Automatic issue resolution with test generation
+- **Bug Fixing**: 80% automatic resolution with test generation
 - **Feature Implementation**: AI pair programming for new features
 - **Security Auditing**: Continuous vulnerability scanning
 - **Documentation**: Automatic code documentation generation
@@ -211,6 +238,46 @@ Team
 
 ## Integration Architecture
 
+### MCP Server Strategy
+**Purpose**: Secure data access with local processing and cloud orchestration
+
+#### Hybrid Architecture
+```yaml
+Cloud Layer (Claude Opus):
+  Purpose: Orchestration and intelligence
+  Functions:
+    - Task planning
+    - Decision making
+    - Result validation
+  Format: XML prompting (25% performance improvement)
+
+Local Layer (Ollama/Local LLM):
+  Purpose: Data processing and security
+  Functions:
+    - Customer data processing
+    - Sensitive operations
+    - Mock data generation
+  Location: On-premises or laptop
+
+MCP Bridge:
+  Purpose: Secure interface
+  Functions:
+    - Data anonymization
+    - Schema extraction
+    - Result aggregation
+```
+
+#### XML Prompting Benefits
+```xml
+<!-- Native format for Claude - 25% better performance -->
+<task>
+  <context>Customer environment details</context>
+  <objective>Specific goal to achieve</objective>
+  <constraints>Security and compliance rules</constraints>
+  <validation>Success criteria</validation>
+</task>
+```
+
 ### Claude Code Integration
 ```yaml
 Harmonoid → Claude Code CLI
@@ -218,7 +285,8 @@ Harmonoid → Claude Code CLI
   ├── Working directory: F:\RootContext
   ├── Real-time output capture
   ├── Intervention detection
-  └── MCP server connectivity
+  ├── MCP server connectivity
+  └── XML prompt optimization
 ```
 
 ### GitHub CI/CD Integration

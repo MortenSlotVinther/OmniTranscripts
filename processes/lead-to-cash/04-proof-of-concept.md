@@ -1,7 +1,7 @@
 # Stage 4: Proof of Concept (POC) Process
 
 ## Overview
-The Proof of Concept stage demonstrates OmniGaze's capabilities in the customer's actual environment, validating technical fit and business value through hands-on implementation and testing of key use cases.
+The Proof of Concept stage demonstrates OmniGaze's capabilities through a streamlined process where John Web handles 80% of standard POCs, John F. covers 20% of complex technical validations, and Morten only engages with strategic accounts. Partners will eventually handle routine POCs after enablement.
 
 ## Duration
 - **Standard Duration**: 4 weeks
@@ -23,10 +23,36 @@ The Proof of Concept stage demonstrates OmniGaze's capabilities in the customer'
 - Success criteria agreed
 - Kickoff meeting scheduled
 
+## Resource Allocation (80/20 Rule)
+
+### Standard POCs (80% - John Web)
+- **Owner**: John Web
+- **Scope**: Standard demonstrations and implementations
+- **Support**: Pre-configured demos and scripts
+- **Escalation**: Only for technical blockers
+
+### Complex POCs (20% - John F.)
+- **Owner**: John Fabienke
+- **Scope**: Technical validations and custom requirements
+- **Focus**: Architecture decisions and integrations
+- **Deliverable**: Technical design documentation
+
+### Strategic POCs (Exceptional - Morten)
+- **Owner**: Morten Vinther
+- **Scope**: Key strategic accounts only
+- **Focus**: Executive relationships and vision
+- **Frequency**: Maximum 2-3 per year
+
+### Partner-Enabled POCs (Future State)
+- **Owner**: Certified Partners
+- **Training**: Provided by John Web
+- **Documentation**: Standardized playbooks
+- **Support**: OmniGaze technical escalation
+
 ## Process Steps
 
 ### 4.1 POC Planning & Kickoff
-**Owner**: Technical Lead
+**Owner**: John Web (Standard) / John F. (Complex)
 
 **Week 0 - Prerequisites**:
 1. **Technical Prerequisites**
@@ -53,7 +79,7 @@ The Proof of Concept stage demonstrates OmniGaze's capabilities in the customer'
 - Q&A session
 
 ### 4.2 Week 1: Deployment & Initial Configuration
-**Owner**: Implementation Consultant
+**Owner**: John Web (with automated tools)
 
 **Day 1-2: Platform Deployment**
 - Install OmniGaze platform
@@ -82,7 +108,7 @@ The Proof of Concept stage demonstrates OmniGaze's capabilities in the customer'
 - Issue log (if any)
 
 ### 4.3 Week 2: Core Validation Scenarios
-**Owner**: Implementation Consultant
+**Owner**: John Web (standard) / John F. (if escalated)
 
 **Validation Scenarios**:
 
@@ -116,7 +142,7 @@ The Proof of Concept stage demonstrates OmniGaze's capabilities in the customer'
 - Dependency maps
 
 ### 4.4 Week 3: Advanced Scenarios & Customization
-**Owner**: Solution Architect
+**Owner**: John F. (complex scenarios only)
 
 **Advanced Scenarios**:
 
@@ -151,7 +177,7 @@ The Proof of Concept stage demonstrates OmniGaze's capabilities in the customer'
 - Performance metrics
 
 ### 4.5 Week 4: Final Validation & Reporting
-**Owner**: Technical Lead
+**Owner**: John Web (standard) / John F. (complex)
 
 **Final Validation Activities**:
 
@@ -182,7 +208,7 @@ The Proof of Concept stage demonstrates OmniGaze's capabilities in the customer'
 - Full deployment estimate
 
 ### 4.6 POC Closure
-**Owner**: Account Executive
+**Owner**: Sofie (Sales) with John Web (Technical)
 
 **Closure Activities**:
 1. **Final Presentation**
@@ -202,6 +228,44 @@ The Proof of Concept stage demonstrates OmniGaze's capabilities in the customer'
    - Timeline refinement
    - Resource planning
    - Contract preparation
+
+## POC Infrastructure & Tools
+
+### Demo Environment Setup
+**Purpose**: Enable on-site demonstrations without customer data exposure
+
+#### Laptop Configuration
+- **Hardware**: MacBook with M-series chip (16GB+ RAM)
+- **Local LLM**: Ollama for data processing
+- **MCP Server**: Local instance for secure access
+- **Mock Data**: Pre-configured datasets
+- **Demo Scripts**: Standardized scenarios
+
+#### Mock Environment Components
+```yaml
+Mock Infrastructure:
+  Network Devices:
+    - SNMP Simulators
+    - CDP/LLDP responders
+    - Performance metrics
+    
+  Application Layer:
+    - ServiceNow mock
+    - API simulators
+    - Database mocks
+    
+  Data Sets:
+    - Anonymized customer patterns
+    - Industry-standard configurations
+    - Compliance scenarios
+```
+
+### Partner Enablement Materials
+- **POC Playbook**: Step-by-step guide
+- **Demo Scripts**: Standard scenarios
+- **Training Videos**: Recorded by John Web
+- **Escalation Matrix**: When to involve OmniGaze team
+- **Certification Program**: Partner readiness validation
 
 ## Deliverables
 1. **POC Prerequisites Checklist** - Completed validation

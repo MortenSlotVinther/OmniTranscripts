@@ -285,29 +285,36 @@ OmniGaze follows a structured delivery methodology with standardized templates a
 - Security matrices
 - Reference architectures
 
-## Delivery Process Flow
+## Standardized Delivery Process
 
+### Process Flow with Resource Allocation
 ```
-Sales Qualified Lead
+Sales Qualified Lead (Sofie)
         ↓
-    POC SOW → POC Execution → POC Report
+    POC SOW → POC Execution (John Web 80% / John F. 20%)
         ↓
-    Contract Signed
+    Contract Signed (Sofie within parameters)
         ↓
-    Delivery Project SOW
+    Delivery Project SOW (Standardized template)
         ↓
     Planning & Design Phase
-        ├── ARS Development
-        └── ADD Development
+        ├── ARS Development (John F. for complex)
+        └── ADD Development (Standard templates)
         ↓
-    Implementation Phase
+    Implementation Phase (John Web / Partners)
         ↓
-    Knowledge Transfer
+    Knowledge Transfer (Automated materials)
         ↓
-    Go-Live Support
+    Go-Live Support (John Web / Partners)
         ↓
-    Customer Success Handoff
+    Customer Success Handoff ("Cradle to Grave")
 ```
+
+### Contract Standardization
+- **Standard Terms**: Pre-approved by legal
+- **Sofie's Authority**: Negotiate within defined parameters
+- **Escalation**: Only for non-standard terms
+- **Speed**: Target 48-hour turnaround on standard contracts
 
 ## Template Management
 
@@ -329,18 +336,26 @@ Sales Qualified Lead
 - Sign-off requirements
 - Feedback incorporation
 
-## Roles & Responsibilities
+## Roles & Responsibilities (80/20 Allocation)
 
 ### During POC
-- **Sales Team**: Commercial lead, relationship management
-- **Solution Architect**: Technical lead, POC execution
-- **Customer Success**: Observing for handoff preparation
+- **John Web**: 80% of standard POC demonstrations
+- **John F.**: 20% complex technical validations
+- **Sofie**: Commercial negotiations and contracts
+- **Morten**: Strategic accounts only (2-3 per year max)
+- **Partners**: Future state for routine POCs after training
 
 ### During Delivery Project
-- **Project Manager**: Overall project coordination
-- **Solution Architect**: Technical design and implementation
-- **Technical Consultant**: Platform configuration
-- **Customer Success Manager**: Adoption planning
+- **John Web**: Project management and coordination
+- **John F.**: Technical architecture and complex customizations
+- **Partners**: Standard implementations after enablement
+- **Customer Success**: John Web or partner for ongoing support
+
+### Customer Requirements
+- **Mandatory**: Customer must provide project manager
+- **Single Point of Contact**: Both sides must have clear SPOC
+- **No Escalation to Leadership**: Issues resolved at operational level
+- **Clear Accountability**: Defined roles prevent scope creep
 
 ## Success Metrics
 
@@ -382,10 +397,15 @@ Sales Qualified Lead
 - Teams for communication
 - HubSpot for customer relationship
 
-### Delivery Automation
-- Claude Code for document generation assistance
-- GitHub Actions for template validation
-- Automated report generation where possible
+### Delivery Automation (80% Target)
+- **Automated Documentation**: AI-generated from templates
+- **Standard Configurations**: Pre-built for common scenarios  
+- **Feature Request Pipeline**:
+  - Small requests: Auto-implementation via AI
+  - Medium requests: John Web manages
+  - Complex requests: John F. designs
+- **Partner Materials**: Self-service portal with all resources
+- **Mock Environments**: Pre-configured for demos and testing
 
 ---
 

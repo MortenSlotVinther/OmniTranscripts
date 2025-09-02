@@ -4,7 +4,7 @@
 OmniGaze is transitioning to an AI-first development approach, leveraging agentic AI workflows and coding assistants to revolutionize our development process, quality assurance, and deployment pipeline.
 
 ## Strategic Vision
-Transform OmniGaze development from traditional manual coding to AI-augmented autonomous development, achieving 10x productivity improvements while maintaining code quality.
+Transform OmniGaze development from traditional manual coding to AI-augmented autonomous development, achieving 10x productivity improvements while maintaining code quality through implementation of the 80/20 principle - automating 80% of routine tasks to free leadership for strategic work.
 
 ## Migration Strategy
 
@@ -27,13 +27,15 @@ Transform OmniGaze development from traditional manual coding to AI-augmented au
 - **Training**: Team upskilling on AI-assisted development
 
 ### Phase 3: Agentic Workflows (3-6 months)
-- **Objective**: Implement autonomous development agents
+- **Objective**: Implement autonomous development agents using 80/20 rule
 - **Components**:
-  - Code generation agents
+  - Code generation agents (80% automated bug fixes)
   - Refactoring agents
-  - Testing agents
+  - Testing agents with mock environments
   - Documentation agents
   - Security scanning agents
+- **Automation Target**: 80% of defects and small features handled automatically
+- **Human Focus**: Design validation and complex architecture decisions only
 
 ## Development Workflow
 
@@ -46,9 +48,12 @@ Requirements → AI Planning → AI Code Generation → AI Review → AI Testing
 ### Detailed Process
 
 #### 1. Requirements Analysis
-- **Input**: User stories in Jira
-- **AI Role**: Break down into technical tasks
-- **Output**: Detailed implementation plan
+- **Input**: User stories in Jira with markdown descriptions
+- **AI Role**: Break down into technical tasks and categorize complexity
+- **Categorization**: 
+  - Simple (80%): Auto-route to AI implementation
+  - Complex (20%): Route to human design review
+- **Output**: Detailed implementation plan with validation criteria
 
 #### 2. Code Generation
 - **Primary Tool**: Cursor AI with C# context
@@ -244,8 +249,107 @@ Requirements → AI Planning → AI Code Generation → AI Review → AI Testing
 - Quality improvement: 50% fewer bugs
 - Cost savings: €500,000/year in reduced manual effort
 
+## 80/20 Automation Strategy
+
+### Core Principle
+Implement Pareto Principle across all development operations:
+- **80% Automation**: Bug fixes, small features, routine tasks
+- **20% Human Focus**: Complex design, architecture, strategic decisions
+
+### Implementation Pipeline
+
+#### Describe → Implement → Validate Workflow
+1. **Describe Phase**
+   - AI analyzes issue in markdown format
+   - Enriches description with logs and context
+   - Generates detailed specifications
+   - Creates validation criteria
+
+2. **Implement Phase**
+   - Simple issues (80%): Automatic implementation
+   - Complex issues (20%): Design review first
+   - AI generates code following existing patterns
+   - Maintains consistency with codebase
+
+3. **Validate Phase**
+   - Automated QA with mock environments
+   - Human validation only for design changes
+   - Continuous feedback loop
+   - Automatic deployment for validated changes
+
+### XML Prompting Strategy
+**Performance Improvement**: 25% better results with Claude
+
+**Implementation**:
+```xml
+<task>
+  <description>Issue description with full context</description>
+  <complexity>simple|medium|complex</complexity>
+  <validation_criteria>Success conditions</validation_criteria>
+  <constraints>Design patterns to follow</constraints>
+</task>
+```
+
+**Benefits**:
+- Native format for Claude (trained on XML)
+- Better structure parsing
+- Reduced hallucinations
+- Improved consistency
+
+### Local LLM + Cloud Orchestration
+
+#### Hybrid Architecture
+- **Cloud LLM (Claude Opus)**: Orchestration and intelligence
+- **Local LLM (Ollama)**: Data processing and sensitive operations
+- **MCP Server**: Secure data access interface
+
+#### Security Benefits
+- Customer data stays local
+- Only metadata sent to cloud
+- Compliance maintained
+- Full audit trail
+
+#### Implementation
+- Laptop with local LLM for on-site demos
+- Mock data environments for testing
+- Recording/playback for customer interactions
+- SNMP simulators for network testing
+
+## Leadership Bandwidth Optimization
+
+### Current State Problems
+- Morten spending 80% time on operational tasks
+- Leadership stuck in implementation details
+- Strategic planning suffering
+
+### Target State (Post-Automation)
+
+#### Morten's Focus Areas
+- Strategic partnerships
+- Investor relations
+- Product vision
+- Key customer relationships only
+
+#### John F's Responsibilities
+- Technical architecture (20% complex cases)
+- QA pipeline design
+- Customer technical escalations
+- Partner technical enablement
+
+#### John Web's Expanded Role
+- POC demonstrations (80% standard cases)
+- Project management
+- Customer success coordination
+- Partner training
+
+### Automation Enablers
+- AI handles 80% of bug fixes
+- Automated testing pipeline
+- Self-service POC demos
+- Partner-enabled delivery
+
 ---
 
-*Last Updated: August 20, 2025*
+*Last Updated: December 2, 2025*
 *Owner: John Fabienke (CTO)*
 *Next Review: Weekly AI strategy meeting*
